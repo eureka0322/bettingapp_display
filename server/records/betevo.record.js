@@ -22,7 +22,11 @@ class BetevoRecord {
   }
 
   static async listAll() {
-    const [results] = await pool.execute('SELECT id, category, team, spread_odd, spread_standard, money_line, game_id, game_date, game_title FROM `tbl_betevo88`');
+    const startTime = new Date(Date.UTC(2023, 8, 24, 8, 0, 0, 0));
+    const endTime = new Date(Date.UTC(2023, 8, 24, 9, 0, 0, 0));
+
+    const [results] = await pool.execute(`SELECT id, category, team, spread_odd, spread_standard, money_line, game_id, game_date, game_title, game_datetime FROM tbl_betevo88 WHERE game_datetime>='${startTime.toISOString()}' AND game_datetime<='${endTime.toISOString()}'`);
+
     let listData = [];
     for(var i=0;i<results.length;i+=2){
       const data = {
@@ -30,14 +34,17 @@ class BetevoRecord {
         game_title: results[i].game_title,
         game_date: results[i].game_date,
         category: results[i].category,
+        game_datetime: results[i].game_datetime,
         details: [
           {
+            id: results[i].id,
             team_name: results[i].team,
             spread_odd: results[i].spread_odd,
             spread_standard: results[i].spread_standard,
             money_line: results[i].money_line
           },
           {
+            id: results[i+1].id,
             team_name: results[i+1].team,
             spread_odd: results[i+1].spread_odd,
             spread_standard: results[i+1].spread_standard,
@@ -45,7 +52,8 @@ class BetevoRecord {
           }
         ]
       };
-      listData.push(data);
+      if((results[i].spread_odd !="" || results[i].spread_standard !="") && results[i].money_line!="")
+        listData.push(data);
     }
     return listData;//results.map((obj) => new BetevoRecord(obj));
   }
