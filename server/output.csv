@@ -1,0 +1,826 @@
+MLB,New York Mets,1.5,-140,+153,r_484585118,1:05p ET,New York Mets (71-84) @ Philadelphia Phillies (86-69)
+MLB,Philadelphia Phillies,-1.5,115,-170,r_484585118,1:05p ET,New York Mets (71-84) @ Philadelphia Phillies (86-69)
+MLB,Milwaukee Brewers,-1.5,130,-124,r_484585127,1:40p ET,Milwaukee Brewers (88-67) @ Miami Marlins (80-75)
+MLB,Miami Marlins,1.5,-155,+112,r_484585127,1:40p ET,Milwaukee Brewers (88-67) @ Miami Marlins (80-75)
+MLB,St. Louis Cardinals,1.5,-115,+188,r_484585136,4:10p ET,St. Louis Cardinals (68-87) @ San Diego Padres (76-79)
+MLB,San Diego Padres,-1.5,-105,-210,r_484585136,4:10p ET,St. Louis Cardinals (68-87) @ San Diego Padres (76-79)
+MLB,Toronto Blue Jays,1.5,-200,+102,r_484585914,1:10p ET,Toronto Blue Jays (86-69) @ Tampa Bay Rays (95-61)
+MLB,Tampa Bay Rays,-1.5,165,-113,r_484585914,1:10p ET,Toronto Blue Jays (86-69) @ Tampa Bay Rays (95-61)
+MLB,Chicago White Sox,1.5,-155,+134,r_484585917,1:35p ET,Chicago White Sox (59-96) @ Boston Red Sox (76-79)
+MLB,Boston Red Sox,-1.5,130,-148,r_484585917,1:35p ET,Chicago White Sox (59-96) @ Boston Red Sox (76-79)
+MLB,Baltimore Orioles,1.5,-225,-105,r_484585920,1:40p ET,Baltimore Orioles (96-59) @ Cleveland Guardians (74-82)
+MLB,Cleveland Guardians,-1.5,182,-105,r_484585920,1:40p ET,Baltimore Orioles (96-59) @ Cleveland Guardians (74-82)
+MLB,Seattle Mariners,1.5,-180,+113,r_484585929,2:35p ET,Seattle Mariners (84-70) @ Texas Rangers (86-68)
+MLB,Texas Rangers,-1.5,150,-125,r_484585929,2:35p ET,Seattle Mariners (84-70) @ Texas Rangers (86-68)
+MLB,Detroit Tigers,-1.5,112,-145,r_484585932,4:07p ET,Detroit Tigers (72-83) @ Oakland Athletics (48-107)
+MLB,Oakland Athletics,1.5,-135,+131,r_484585932,4:07p ET,Detroit Tigers (72-83) @ Oakland Athletics (48-107)
+NFL,Los Angeles Chargers,pk,-105,,r_483816590,1:00p ET,Los Angeles Chargers (0-2) @ Minnesota Vikings (0-2)
+NFL,Minnesota Vikings,pk,-105,,r_483816590,1:00p ET,Los Angeles Chargers (0-2) @ Minnesota Vikings (0-2)
+NFL,Tennessee Titans,3,105,+156,r_483816593,1:00p ET,Tennessee Titans (1-1) @ Cleveland Browns (1-0)
+NFL,Cleveland Browns,-3,-115,-173,r_483816593,1:00p ET,Tennessee Titans (1-1) @ Cleveland Browns (1-0)
+NFL,Houston Texans,7.5,-105,+306,r_483816596,1:00p ET,Houston Texans (0-2) @ Jacksonville Jaguars (1-1)
+NFL,Jacksonville Jaguars,-7.5,-105,-350,r_483816596,1:00p ET,Houston Texans (0-2) @ Jacksonville Jaguars (1-1)
+NFL,New England Patriots,-2.5,-115,-147,r_483816599,1:00p ET,New England Patriots (0-2) @ New York Jets (1-1)
+NFL,New York Jets,2.5,105,+133,r_483816599,1:00p ET,New England Patriots (0-2) @ New York Jets (1-1)
+NFL,New Orleans Saints,1,-105,,r_483816602,1:00p ET,New Orleans Saints (2-0) @ Green Bay Packers (1-1)
+NFL,Green Bay Packers,-1,-105,,r_483816602,1:00p ET,New Orleans Saints (2-0) @ Green Bay Packers (1-1)
+NFL,Denver Broncos,6,-105,+227,r_483816605,1:00p ET,Denver Broncos (0-2) @ Miami Dolphins (2-0)
+NFL,Miami Dolphins,-6,-105,-255,r_483816605,1:00p ET,Denver Broncos (0-2) @ Miami Dolphins (2-0)
+NFL,Buffalo Bills,-5.5,-105,-240,r_483816608,1:00p ET,Buffalo Bills (1-1) @ Washington Commanders (2-0)
+NFL,Washington Commanders,5.5,-105,+214,r_483816608,1:00p ET,Buffalo Bills (1-1) @ Washington Commanders (2-0)
+NFL,Atlanta Falcons,3,100,+152,r_483816611,1:00p ET,Atlanta Falcons (2-0) @ Detroit Lions (1-1)
+NFL,Detroit Lions,-3,-110,-168,r_483816611,1:00p ET,Atlanta Falcons (2-0) @ Detroit Lions (1-1)
+NFL,Indianapolis Colts,8,-105,+322,r_483816614,1:00p ET,Indianapolis Colts (1-1) @ Baltimore Ravens (2-0)
+NFL,Baltimore Ravens,-8,-105,-370,r_483816614,1:00p ET,Indianapolis Colts (1-1) @ Baltimore Ravens (2-0)
+NFL,Carolina Panthers,4.5,-105,+188,r_483816617,4:05p ET,Carolina Panthers (0-2) @ Seattle Seahawks (1-1)
+NFL,Seattle Seahawks,-4.5,-105,-210,r_483816617,4:05p ET,Carolina Panthers (0-2) @ Seattle Seahawks (1-1)
+NFL,Dallas Cowboys,-12.5,-105,-600,r_483816620,4:25p ET,Dallas Cowboys (2-0) @ Arizona Cardinals (0-2)
+NFL,Arizona Cardinals,12.5,-105,+500,r_483816620,4:25p ET,Dallas Cowboys (2-0) @ Arizona Cardinals (0-2)
+NFL,Chicago Bears,12,-105,+500,r_483816623,4:25p ET,Chicago Bears (0-2) @ Kansas City Chiefs (1-1)
+NFL,Kansas City Chiefs,-12,-105,-600,r_483816623,4:25p ET,Chicago Bears (0-2) @ Kansas City Chiefs (1-1)
+NFL,Pittsburgh Steelers,3,-110,+137,r_483816626,8:20p ET,Pittsburgh Steelers (1-1) @ Las Vegas Raiders (1-1)
+NFL,Las Vegas Raiders,-3,100,-152,r_483816626,8:20p ET,Pittsburgh Steelers (1-1) @ Las Vegas Raiders (1-1)
+1st Half,Los Angeles Chargers 1H,0.5,-115,+100,r_483816590,1:00p ET,Los Angeles Chargers (0-2) @ Minnesota Vikings (0-2)
+1st Half,Minnesota Vikings 1H,-0.5,-105,-120,r_483816590,1:00p ET,Los Angeles Chargers (0-2) @ Minnesota Vikings (0-2)
+1st Half,Tennessee Titans 1H,2.5,-105,+135,r_483816593,1:00p ET,Tennessee Titans (1-1) @ Cleveland Browns (1-0)
+1st Half,Cleveland Browns 1H,-2.5,-115,-165,r_483816593,1:00p ET,Tennessee Titans (1-1) @ Cleveland Browns (1-0)
+1st Half,Houston Texans 1H,4.5,-110,+212,r_483816596,1:00p ET,Houston Texans (0-2) @ Jacksonville Jaguars (1-1)
+1st Half,Jacksonville Jaguars 1H,-4.5,-110,-265,r_483816596,1:00p ET,Houston Texans (0-2) @ Jacksonville Jaguars (1-1)
+1st Half,New England Patriots 1H,-0.5,-110,-135,r_483816599,1:00p ET,New England Patriots (0-2) @ New York Jets (1-1)
+1st Half,New York Jets 1H,0.5,-110,+112,r_483816599,1:00p ET,New England Patriots (0-2) @ New York Jets (1-1)
+1st Half,New Orleans Saints 1H,0.5,-125,,r_483816602,1:00p ET,New Orleans Saints (2-0) @ Green Bay Packers (1-1)
+1st Half,Green Bay Packers 1H,-0.5,105,,r_483816602,1:00p ET,New Orleans Saints (2-0) @ Green Bay Packers (1-1)
+1st Half,Denver Broncos 1H,3.5,-115,+168,r_483816605,1:00p ET,Denver Broncos (0-2) @ Miami Dolphins (2-0)
+1st Half,Miami Dolphins 1H,-3.5,-105,-205,r_483816605,1:00p ET,Denver Broncos (0-2) @ Miami Dolphins (2-0)
+1st Half,Buffalo Bills 1H,-3,-115,-190,r_483816608,1:00p ET,Buffalo Bills (1-1) @ Washington Commanders (2-0)
+1st Half,Washington Commanders 1H,3,-105,+155,r_483816608,1:00p ET,Buffalo Bills (1-1) @ Washington Commanders (2-0)
+1st Half,Atlanta Falcons 1H,2.5,-110,+125,r_483816611,1:00p ET,Atlanta Falcons (2-0) @ Detroit Lions (1-1)
+1st Half,Detroit Lions 1H,-2.5,-110,-150,r_483816611,1:00p ET,Atlanta Falcons (2-0) @ Detroit Lions (1-1)
+1st Half,Indianapolis Colts 1H,4.5,-110,+225,r_483816614,1:00p ET,Indianapolis Colts (1-1) @ Baltimore Ravens (2-0)
+1st Half,Baltimore Ravens 1H,-4.5,-110,-280,r_483816614,1:00p ET,Indianapolis Colts (1-1) @ Baltimore Ravens (2-0)
+1st Half,Carolina Panthers 1H,3,-105,+165,r_483816617,4:05p ET,Carolina Panthers (0-2) @ Seattle Seahawks (1-1)
+1st Half,Seattle Seahawks 1H,-3,-115,-200,r_483816617,4:05p ET,Carolina Panthers (0-2) @ Seattle Seahawks (1-1)
+1st Half,Dallas Cowboys 1H,-7.5,-105,-400,r_483816620,4:25p ET,Dallas Cowboys (2-0) @ Arizona Cardinals (0-2)
+1st Half,Arizona Cardinals 1H,7.5,-115,+320,r_483816620,4:25p ET,Dallas Cowboys (2-0) @ Arizona Cardinals (0-2)
+1st Half,Chicago Bears 1H,7,-110,+287,r_483816623,4:25p ET,Chicago Bears (0-2) @ Kansas City Chiefs (1-1)
+1st Half,Kansas City Chiefs 1H,-7,-110,-370,r_483816623,4:25p ET,Chicago Bears (0-2) @ Kansas City Chiefs (1-1)
+1st Half,Pittsburgh Steelers 1H,1.5,-110,+120,r_483816626,8:20p ET,Pittsburgh Steelers (1-1) @ Las Vegas Raiders (1-1)
+1st Half,Las Vegas Raiders 1H,-1.5,-110,-145,r_483816626,8:20p ET,Pittsburgh Steelers (1-1) @ Las Vegas Raiders (1-1)
+1st Quarter,Los Angeles Chargers 1Q,0.5,-150,-105,r_483816590,1:00p ET,Los Angeles Chargers (0-2) @ Minnesota Vikings (0-2)
+1st Quarter,Minnesota Vikings 1Q,-0.5,113,-125,r_483816590,1:00p ET,Los Angeles Chargers (0-2) @ Minnesota Vikings (0-2)
+1st Quarter,Tennessee Titans 1Q,0.5,-145,+113,r_483816593,1:00p ET,Tennessee Titans (1-1) @ Cleveland Browns (1-0)
+1st Quarter,Cleveland Browns 1Q,-0.5,110,-150,r_483816593,1:00p ET,Tennessee Titans (1-1) @ Cleveland Browns (1-0)
+1st Quarter,Houston Texans 1Q,2.5,-105,+160,r_483816596,1:00p ET,Houston Texans (0-2) @ Jacksonville Jaguars (1-1)
+1st Quarter,Jacksonville Jaguars 1Q,-2.5,-125,-225,r_483816596,1:00p ET,Houston Texans (0-2) @ Jacksonville Jaguars (1-1)
+1st Quarter,New England Patriots 1Q,-0.5,127,-135,r_483816599,1:00p ET,New England Patriots (0-2) @ New York Jets (1-1)
+1st Quarter,New York Jets 1Q,0.5,-170,+102,r_483816599,1:00p ET,New England Patriots (0-2) @ New York Jets (1-1)
+1st Quarter,New Orleans Saints 1Q,0.5,-160,+100,r_483816602,1:00p ET,New Orleans Saints (2-0) @ Green Bay Packers (1-1)
+1st Quarter,Green Bay Packers 1Q,-0.5,120,-130,r_483816602,1:00p ET,New Orleans Saints (2-0) @ Green Bay Packers (1-1)
+1st Quarter,Denver Broncos 1Q,2.5,-115,+142,r_483816605,1:00p ET,Denver Broncos (0-2) @ Miami Dolphins (2-0)
+1st Quarter,Miami Dolphins 1Q,-2.5,-115,-195,r_483816605,1:00p ET,Denver Broncos (0-2) @ Miami Dolphins (2-0)
+1st Quarter,Buffalo Bills 1Q,-0.5,100,-165,r_483816608,1:00p ET,Buffalo Bills (1-1) @ Washington Commanders (2-0)
+1st Quarter,Washington Commanders 1Q,0.5,-130,+125,r_483816608,1:00p ET,Buffalo Bills (1-1) @ Washington Commanders (2-0)
+1st Quarter,Atlanta Falcons 1Q,0.5,-130,+113,r_483816611,1:00p ET,Atlanta Falcons (2-0) @ Detroit Lions (1-1)
+1st Quarter,Detroit Lions 1Q,-0.5,100,-150,r_483816611,1:00p ET,Atlanta Falcons (2-0) @ Detroit Lions (1-1)
+1st Quarter,Indianapolis Colts 1Q,2.5,-105,+158,r_483816614,1:00p ET,Indianapolis Colts (1-1) @ Baltimore Ravens (2-0)
+1st Quarter,Baltimore Ravens 1Q,-2.5,-125,-220,r_483816614,1:00p ET,Indianapolis Colts (1-1) @ Baltimore Ravens (2-0)
+1st Quarter,Carolina Panthers 1Q,0.5,-130,+127,r_483816617,4:05p ET,Carolina Panthers (0-2) @ Seattle Seahawks (1-1)
+1st Quarter,Seattle Seahawks 1Q,-0.5,100,-170,r_483816617,4:05p ET,Carolina Panthers (0-2) @ Seattle Seahawks (1-1)
+1st Quarter,Dallas Cowboys 1Q,-3,-115,-250,r_483816620,4:25p ET,Dallas Cowboys (2-0) @ Arizona Cardinals (0-2)
+1st Quarter,Arizona Cardinals 1Q,3,-115,+177,r_483816620,4:25p ET,Dallas Cowboys (2-0) @ Arizona Cardinals (0-2)
+1st Quarter,Chicago Bears 1Q,3.5,-110,+218,r_483816623,4:25p ET,Chicago Bears (0-2) @ Kansas City Chiefs (1-1)
+1st Quarter,Kansas City Chiefs 1Q,-3.5,-120,-320,r_483816623,4:25p ET,Chicago Bears (0-2) @ Kansas City Chiefs (1-1)
+1st Quarter,Pittsburgh Steelers 1Q,0.5,-140,+110,r_483816626,8:20p ET,Pittsburgh Steelers (1-1) @ Las Vegas Raiders (1-1)
+1st Quarter,Las Vegas Raiders 1Q,-0.5,105,-145,r_483816626,8:20p ET,Pittsburgh Steelers (1-1) @ Las Vegas Raiders (1-1)
+NFL Sunday - Player Props,Justin Herbert,,,,r_484430438,1:00p ET,Chargers @ Vikings - Justin Herbert gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484430438,1:00p ET,Chargers @ Vikings - Justin Herbert gross passing yards
+NFL Sunday - Player Props,Justin Herbert,,,,r_484430439,1:00p ET,Chargers @ Vikings - Justin Herbert total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484430439,1:00p ET,Chargers @ Vikings - Justin Herbert total touchdown passes
+NFL Sunday - Player Props,Justin Herbert,,,,r_484606901,1:00p ET,Chargers @ Vikings - Justin Herbert to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484606901,1:00p ET,Chargers @ Vikings - Justin Herbert to throw an interception
+NFL Sunday - Player Props,Justin Herbert,,,,r_484430440,1:00p ET,Chargers @ Vikings - Justin Herbert total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484430440,1:00p ET,Chargers @ Vikings - Justin Herbert total rushing yards
+NFL Sunday - Player Props,Justin Herbert,,,,r_484430441,1:00p ET,Chargers @ Vikings - Justin Herbert to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484430441,1:00p ET,Chargers @ Vikings - Justin Herbert to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Joshua Kelley,,,,r_484430442,1:00p ET,Chargers @ Vikings - Joshua Kelley total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484430442,1:00p ET,Chargers @ Vikings - Joshua Kelley total rushing yards
+NFL Sunday - Player Props,Joshua Kelley,,,,r_484430443,1:00p ET,Chargers @ Vikings - Joshua Kelley total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484430443,1:00p ET,Chargers @ Vikings - Joshua Kelley total receiving yards
+NFL Sunday - Player Props,Joshua Kelley,,,,r_484430444,1:00p ET,Chargers @ Vikings - Joshua Kelley to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484430444,1:00p ET,Chargers @ Vikings - Joshua Kelley to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Keenan Allen,,,,r_484430445,1:00p ET,Chargers @ Vikings - Keenan Allen total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484430445,1:00p ET,Chargers @ Vikings - Keenan Allen total receiving yards
+NFL Sunday - Player Props,Keenan Allen,,,,r_484430446,1:00p ET,Chargers @ Vikings - Keenan Allen to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484430446,1:00p ET,Chargers @ Vikings - Keenan Allen to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Mike Williams,,,,r_484430447,1:00p ET,Chargers @ Vikings - Mike Williams total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484430447,1:00p ET,Chargers @ Vikings - Mike Williams total receiving yards
+NFL Sunday - Player Props,Mike Williams,,,,r_484430448,1:00p ET,Chargers @ Vikings - Mike Williams to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484430448,1:00p ET,Chargers @ Vikings - Mike Williams to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Gerald Everett,,,,r_484430451,1:00p ET,Chargers @ Vikings - Gerald Everett total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484430451,1:00p ET,Chargers @ Vikings - Gerald Everett total receiving yards
+NFL Sunday - Player Props,Gerald Everett,,,,r_484430452,1:00p ET,Chargers @ Vikings - Gerald Everett to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484430452,1:00p ET,Chargers @ Vikings - Gerald Everett to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Joshua Palmer,,,,r_484430449,1:00p ET,Chargers @ Vikings - Joshua Palmer total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484430449,1:00p ET,Chargers @ Vikings - Joshua Palmer total receiving yards
+NFL Sunday - Player Props,Joshua Palmer,,,,r_484430450,1:00p ET,Chargers @ Vikings - Joshua Palmer to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484430450,1:00p ET,Chargers @ Vikings - Joshua Palmer to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Donald Parham Jr.,,,,r_484430469,1:00p ET,Chargers @ Vikings - Donald Parham Jr. total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484430469,1:00p ET,Chargers @ Vikings - Donald Parham Jr. total receiving yards
+NFL Sunday - Player Props,Donald Parham Jr.,,,,r_484430470,1:00p ET,Chargers @ Vikings - Donald Parham Jr. to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484430470,1:00p ET,Chargers @ Vikings - Donald Parham Jr. to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Kirk Cousins,,,,r_484430453,1:00p ET,Chargers @ Vikings - Kirk Cousins gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484430453,1:00p ET,Chargers @ Vikings - Kirk Cousins gross passing yards
+NFL Sunday - Player Props,Kirk Cousins,,,,r_484430454,1:00p ET,Chargers @ Vikings - Kirk Cousins total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484430454,1:00p ET,Chargers @ Vikings - Kirk Cousins total touchdown passes
+NFL Sunday - Player Props,Kirk Cousins,,,,r_484606903,1:00p ET,Chargers @ Vikings - Kirk Cousins to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484606903,1:00p ET,Chargers @ Vikings - Kirk Cousins to throw an interception
+NFL Sunday - Player Props,Alexander Mattison,,,,r_484430458,1:00p ET,Chargers @ Vikings - Alexander Mattison total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484430458,1:00p ET,Chargers @ Vikings - Alexander Mattison total rushing yards
+NFL Sunday - Player Props,Alexander Mattison,,,,r_484430459,1:00p ET,Chargers @ Vikings - Alexander Mattison total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484430459,1:00p ET,Chargers @ Vikings - Alexander Mattison total receiving yards
+NFL Sunday - Player Props,Alexander Mattison,,,,r_484430460,1:00p ET,Chargers @ Vikings - Alexander Mattison to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484430460,1:00p ET,Chargers @ Vikings - Alexander Mattison to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Justin Jefferson,,,,r_484430461,1:00p ET,Chargers @ Vikings - Justin Jefferson total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484430461,1:00p ET,Chargers @ Vikings - Justin Jefferson total receiving yards
+NFL Sunday - Player Props,Justin Jefferson,,,,r_484430462,1:00p ET,Chargers @ Vikings - Justin Jefferson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484430462,1:00p ET,Chargers @ Vikings - Justin Jefferson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,T.J. Hockenson,,,,r_484430467,1:00p ET,Chargers @ Vikings - T.J. Hockenson total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484430467,1:00p ET,Chargers @ Vikings - T.J. Hockenson total receiving yards
+NFL Sunday - Player Props,T.J. Hockenson,,,,r_484430468,1:00p ET,Chargers @ Vikings - T.J. Hockenson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484430468,1:00p ET,Chargers @ Vikings - T.J. Hockenson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Jordan Addison,,,,r_484430465,1:00p ET,Chargers @ Vikings - Jordan Addison total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484430465,1:00p ET,Chargers @ Vikings - Jordan Addison total receiving yards
+NFL Sunday - Player Props,Jordan Addison,,,,r_484430466,1:00p ET,Chargers @ Vikings - Jordan Addison to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484430466,1:00p ET,Chargers @ Vikings - Jordan Addison to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,K.J. Osborn,,,,r_484430463,1:00p ET,Chargers @ Vikings - K.J. Osborn total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484430463,1:00p ET,Chargers @ Vikings - K.J. Osborn total receiving yards
+NFL Sunday - Player Props,K.J. Osborn,,,,r_484430464,1:00p ET,Chargers @ Vikings - K.J. Osborn to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484430464,1:00p ET,Chargers @ Vikings - K.J. Osborn to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Ryan Tannehill,,,,r_484345403,1:00p ET,Titans @ Browns - Ryan Tannehill gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484345403,1:00p ET,Titans @ Browns - Ryan Tannehill gross passing yards
+NFL Sunday - Player Props,R Tannehill a TD Pass,,,-345,r_484345404,1:00p ET,Titans @ Browns - Ryan Tannehill to throw a TD Pass
+NFL Sunday - Player Props,R Tannehill no TD Pass,,,+193,r_484345404,1:00p ET,Titans @ Browns - Ryan Tannehill to throw a TD Pass
+NFL Sunday - Player Props,Ryan Tannehill,,,,r_484609680,1:00p ET,Titans @ Browns - Ryan Tannehill to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484609680,1:00p ET,Titans @ Browns - Ryan Tannehill to throw an interception
+NFL Sunday - Player Props,Ryan Tannehill,,,,r_484345405,1:00p ET,Titans @ Browns - Ryan Tannehill total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484345405,1:00p ET,Titans @ Browns - Ryan Tannehill total rushing yards
+NFL Sunday - Player Props,Ryan Tannehill,,,,r_484345406,1:00p ET,Titans @ Browns - Ryan Tannehill to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484345406,1:00p ET,Titans @ Browns - Ryan Tannehill to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Derrick Henry,,,,r_484345407,1:00p ET,Titans @ Browns - Derrick Henry total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484345407,1:00p ET,Titans @ Browns - Derrick Henry total rushing yards
+NFL Sunday - Player Props,Derrick Henry,,,,r_484345408,1:00p ET,Titans @ Browns - Derrick Henry total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484345408,1:00p ET,Titans @ Browns - Derrick Henry total receiving yards
+NFL Sunday - Player Props,Derrick Henry,,,,r_484345409,1:00p ET,Titans @ Browns - Derrick Henry to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484345409,1:00p ET,Titans @ Browns - Derrick Henry to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,DeAndre Hopkins,,,,r_484345410,1:00p ET,Titans @ Browns - DeAndre Hopkins total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484345410,1:00p ET,Titans @ Browns - DeAndre Hopkins total receiving yards
+NFL Sunday - Player Props,DeAndre Hopkins,,,,r_484345411,1:00p ET,Titans @ Browns - DeAndre Hopkins to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484345411,1:00p ET,Titans @ Browns - DeAndre Hopkins to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Treylon Burks,,,,r_484345412,1:00p ET,Titans @ Browns - Treylon Burks total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484345412,1:00p ET,Titans @ Browns - Treylon Burks total receiving yards
+NFL Sunday - Player Props,Treylon Burks,,,,r_484345413,1:00p ET,Titans @ Browns - Treylon Burks to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484345413,1:00p ET,Titans @ Browns - Treylon Burks to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Chig Okonkwo,,,,r_484345416,1:00p ET,Titans @ Browns - Chig Okonkwo total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484345416,1:00p ET,Titans @ Browns - Chig Okonkwo total receiving yards
+NFL Sunday - Player Props,Chig Okonkwo,,,,r_484345417,1:00p ET,Titans @ Browns - Chig Okonkwo to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484345417,1:00p ET,Titans @ Browns - Chig Okonkwo to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Nick Westbrook-Ikhine,,,,r_484345414,1:00p ET,Titans @ Browns - Nick Westbrook-Ikhine total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484345414,1:00p ET,Titans @ Browns - Nick Westbrook-Ikhine total receiving yards
+NFL Sunday - Player Props,Nick Westbrook-Ikhine,,,,r_484345415,1:00p ET,Titans @ Browns - Nick Westbrook-Ikhine to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484345415,1:00p ET,Titans @ Browns - Nick Westbrook-Ikhine to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Deshaun Watson,,,,r_484345418,1:00p ET,Titans @ Browns - Deshaun Watson gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484345418,1:00p ET,Titans @ Browns - Deshaun Watson gross passing yards
+NFL Sunday - Player Props,Deshaun Watson,,,,r_484345420,1:00p ET,Titans @ Browns - Deshaun Watson total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484345420,1:00p ET,Titans @ Browns - Deshaun Watson total touchdown passes
+NFL Sunday - Player Props,Deshaun Watson,,,,r_484609678,1:00p ET,Titans @ Browns - Deshaun Watson to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484609678,1:00p ET,Titans @ Browns - Deshaun Watson to throw an interception
+NFL Sunday - Player Props,Deshaun Watson,,,,r_484345421,1:00p ET,Titans @ Browns - Deshaun Watson total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484345421,1:00p ET,Titans @ Browns - Deshaun Watson total rushing yards
+NFL Sunday - Player Props,Deshaun Watson,,,,r_484345422,1:00p ET,Titans @ Browns - Deshaun Watson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484345422,1:00p ET,Titans @ Browns - Deshaun Watson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Jerome Ford,,,,r_484345423,1:00p ET,Titans @ Browns - Jerome Ford total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484345423,1:00p ET,Titans @ Browns - Jerome Ford total rushing yards
+NFL Sunday - Player Props,Jerome Ford,,,,r_484345424,1:00p ET,Titans @ Browns - Jerome Ford total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484345424,1:00p ET,Titans @ Browns - Jerome Ford total receiving yards
+NFL Sunday - Player Props,Jerome Ford,,,,r_484345425,1:00p ET,Titans @ Browns - Jerome Ford to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484345425,1:00p ET,Titans @ Browns - Jerome Ford to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Amari Cooper,,,,r_484345426,1:00p ET,Titans @ Browns - Amari Cooper total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484345426,1:00p ET,Titans @ Browns - Amari Cooper total receiving yards
+NFL Sunday - Player Props,Amari Cooper,,,,r_484345427,1:00p ET,Titans @ Browns - Amari Cooper to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484345427,1:00p ET,Titans @ Browns - Amari Cooper to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Elijah Moore,,,,r_484345428,1:00p ET,Titans @ Browns - Elijah Moore total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484345428,1:00p ET,Titans @ Browns - Elijah Moore total receiving yards
+NFL Sunday - Player Props,Elijah Moore,,,,r_484345429,1:00p ET,Titans @ Browns - Elijah Moore to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484345429,1:00p ET,Titans @ Browns - Elijah Moore to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,David Njoku,,,,r_484345432,1:00p ET,Titans @ Browns - David Njoku total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484345432,1:00p ET,Titans @ Browns - David Njoku total receiving yards
+NFL Sunday - Player Props,David Njoku,,,,r_484345433,1:00p ET,Titans @ Browns - David Njoku to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484345433,1:00p ET,Titans @ Browns - David Njoku to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Donovan Peoples-Jones,,,,r_484345430,1:00p ET,Titans @ Browns - Donovan Peoples-Jones total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484345430,1:00p ET,Titans @ Browns - Donovan Peoples-Jones total receiving yards
+NFL Sunday - Player Props,Donovan Peoples-Jones,,,,r_484345431,1:00p ET,Titans @ Browns - Donovan Peoples-Jones to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484345431,1:00p ET,Titans @ Browns - Donovan Peoples-Jones to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,C.J. Stroud,,,,r_484346244,1:00p ET,Texans @ Jaguars - C.J. Stroud gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484346244,1:00p ET,Texans @ Jaguars - C.J. Stroud gross passing yards
+NFL Sunday - Player Props,C.J. Stroud,,,,r_484346245,1:00p ET,Texans @ Jaguars - C.J. Stroud total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484346245,1:00p ET,Texans @ Jaguars - C.J. Stroud total touchdown passes
+NFL Sunday - Player Props,C.J. Stroud,,,,r_484609841,1:00p ET,Texans @ Jaguars - C.J. Stroud to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484609841,1:00p ET,Texans @ Jaguars - C.J. Stroud to throw an interception
+NFL Sunday - Player Props,Dameon Pierce,,,,r_484346246,1:00p ET,Texans @ Jaguars - Dameon Pierce total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484346246,1:00p ET,Texans @ Jaguars - Dameon Pierce total rushing yards
+NFL Sunday - Player Props,Dameon Pierce,,,,r_484346247,1:00p ET,Texans @ Jaguars - Dameon Pierce to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484346247,1:00p ET,Texans @ Jaguars - Dameon Pierce to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Nico Collins,,,,r_484346248,1:00p ET,Texans @ Jaguars - Nico Collins total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484346248,1:00p ET,Texans @ Jaguars - Nico Collins total receiving yards
+NFL Sunday - Player Props,Nico Collins,,,,r_484346249,1:00p ET,Texans @ Jaguars - Nico Collins to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484346249,1:00p ET,Texans @ Jaguars - Nico Collins to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Robert Woods,,,,r_484346250,1:00p ET,Texans @ Jaguars - Robert Woods total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484346250,1:00p ET,Texans @ Jaguars - Robert Woods total receiving yards
+NFL Sunday - Player Props,Robert Woods,,,,r_484346251,1:00p ET,Texans @ Jaguars - Robert Woods to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484346251,1:00p ET,Texans @ Jaguars - Robert Woods to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Tank Dell,,,,r_484346252,1:00p ET,Texans @ Jaguars - Tank Dell total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484346252,1:00p ET,Texans @ Jaguars - Tank Dell total receiving yards
+NFL Sunday - Player Props,Tank Dell,,,,r_484346253,1:00p ET,Texans @ Jaguars - Tank Dell to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484346253,1:00p ET,Texans @ Jaguars - Tank Dell to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Dalton Schultz,,,,r_484346254,1:00p ET,Texans @ Jaguars - Dalton Schultz total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484346254,1:00p ET,Texans @ Jaguars - Dalton Schultz total receiving yards
+NFL Sunday - Player Props,Dalton Schultz,,,,r_484346255,1:00p ET,Texans @ Jaguars - Dalton Schultz to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484346255,1:00p ET,Texans @ Jaguars - Dalton Schultz to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Trevor Lawrence,,,,r_484346256,1:00p ET,Texans @ Jaguars - Trevor Lawrence gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484346256,1:00p ET,Texans @ Jaguars - Trevor Lawrence gross passing yards
+NFL Sunday - Player Props,Trevor Lawrence,,,,r_484346257,1:00p ET,Texans @ Jaguars - Trevor Lawrence total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484346257,1:00p ET,Texans @ Jaguars - Trevor Lawrence total touchdown passes
+NFL Sunday - Player Props,Trevor Lawrence,,,,r_484609842,1:00p ET,Texans @ Jaguars - Trevor Lawrence to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484609842,1:00p ET,Texans @ Jaguars - Trevor Lawrence to throw an interception
+NFL Sunday - Player Props,Trevor Lawrence,,,,r_484346258,1:00p ET,Texans @ Jaguars - Trevor Lawrence total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484346258,1:00p ET,Texans @ Jaguars - Trevor Lawrence total rushing yards
+NFL Sunday - Player Props,Trevor Lawrence,,,,r_484346259,1:00p ET,Texans @ Jaguars - Trevor Lawrence to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484346259,1:00p ET,Texans @ Jaguars - Trevor Lawrence to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Travis Etienne Jr.,,,,r_484346260,1:00p ET,Texans @ Jaguars - Travis Etienne Jr. total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484346260,1:00p ET,Texans @ Jaguars - Travis Etienne Jr. total rushing yards
+NFL Sunday - Player Props,Travis Etienne Jr.,,,,r_484346261,1:00p ET,Texans @ Jaguars - Travis Etienne Jr. to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484346261,1:00p ET,Texans @ Jaguars - Travis Etienne Jr. to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Calvin Ridley,,,,r_484346262,1:00p ET,Texans @ Jaguars - Calvin Ridley total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484346262,1:00p ET,Texans @ Jaguars - Calvin Ridley total receiving yards
+NFL Sunday - Player Props,Calvin Ridley,,,,r_484346263,1:00p ET,Texans @ Jaguars - Calvin Ridley to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484346263,1:00p ET,Texans @ Jaguars - Calvin Ridley to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Christian Kirk,,,,r_484346264,1:00p ET,Texans @ Jaguars - Christian Kirk total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484346264,1:00p ET,Texans @ Jaguars - Christian Kirk total receiving yards
+NFL Sunday - Player Props,Christian Kirk,,,,r_484346265,1:00p ET,Texans @ Jaguars - Christian Kirk to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484346265,1:00p ET,Texans @ Jaguars - Christian Kirk to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Evan Engram,,,,r_484346266,1:00p ET,Texans @ Jaguars - Evan Engram total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484346266,1:00p ET,Texans @ Jaguars - Evan Engram total receiving yards
+NFL Sunday - Player Props,Evan Engram,,,,r_484346267,1:00p ET,Texans @ Jaguars - Evan Engram to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484346267,1:00p ET,Texans @ Jaguars - Evan Engram to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Mac Jones,,,,r_484347311,1:00p ET,Patriots @ Jets - Mac Jones gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484347311,1:00p ET,Patriots @ Jets - Mac Jones gross passing yards
+NFL Sunday - Player Props,Mac Jones,,,,r_484347312,1:00p ET,Patriots @ Jets - Mac Jones total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484347312,1:00p ET,Patriots @ Jets - Mac Jones total touchdown passes
+NFL Sunday - Player Props,Mac Jones,,,,r_484609989,1:00p ET,Patriots @ Jets - Mac Jones to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484609989,1:00p ET,Patriots @ Jets - Mac Jones to throw an interception
+NFL Sunday - Player Props,Mac Jones,,,,r_484347313,1:00p ET,Patriots @ Jets - Mac Jones total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484347313,1:00p ET,Patriots @ Jets - Mac Jones total rushing yards
+NFL Sunday - Player Props,Mac Jones,,,,r_484347314,1:00p ET,Patriots @ Jets - Mac Jones to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484347314,1:00p ET,Patriots @ Jets - Mac Jones to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Rhamondre Stevenson,,,,r_484347315,1:00p ET,Patriots @ Jets - Rhamondre Stevenson total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484347315,1:00p ET,Patriots @ Jets - Rhamondre Stevenson total rushing yards
+NFL Sunday - Player Props,Rhamondre Stevenson,,,,r_484347316,1:00p ET,Patriots @ Jets - Rhamondre Stevenson total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484347316,1:00p ET,Patriots @ Jets - Rhamondre Stevenson total receiving yards
+NFL Sunday - Player Props,Rhamondre Stevenson,,,,r_484347317,1:00p ET,Patriots @ Jets - Rhamondre Stevenson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484347317,1:00p ET,Patriots @ Jets - Rhamondre Stevenson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Ezekiel Elliott,,,,r_484347318,1:00p ET,Patriots @ Jets - Ezekiel Elliott total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484347318,1:00p ET,Patriots @ Jets - Ezekiel Elliott total rushing yards
+NFL Sunday - Player Props,Ezekiel Elliott,,,,r_484347319,1:00p ET,Patriots @ Jets - Ezekiel Elliott to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484347319,1:00p ET,Patriots @ Jets - Ezekiel Elliott to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,DeVante Parker,,,,r_484347320,1:00p ET,Patriots @ Jets - DeVante Parker total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484347320,1:00p ET,Patriots @ Jets - DeVante Parker total receiving yards
+NFL Sunday - Player Props,DeVante Parker,,,,r_484347321,1:00p ET,Patriots @ Jets - DeVante Parker to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484347321,1:00p ET,Patriots @ Jets - DeVante Parker to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,JuJu Smith-Schuster,,,,r_484347322,1:00p ET,Patriots @ Jets - JuJu Smith-Schuster total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484347322,1:00p ET,Patriots @ Jets - JuJu Smith-Schuster total receiving yards
+NFL Sunday - Player Props,JuJu Smith-Schuster,,,,r_484347323,1:00p ET,Patriots @ Jets - JuJu Smith-Schuster to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484347323,1:00p ET,Patriots @ Jets - JuJu Smith-Schuster to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Kendrick Bourne,,,,r_484347324,1:00p ET,Patriots @ Jets - Kendrick Bourne total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484347324,1:00p ET,Patriots @ Jets - Kendrick Bourne total receiving yards
+NFL Sunday - Player Props,Kendrick Bourne,,,,r_484347325,1:00p ET,Patriots @ Jets - Kendrick Bourne to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484347325,1:00p ET,Patriots @ Jets - Kendrick Bourne to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Hunter Henry,,,,r_484347326,1:00p ET,Patriots @ Jets - Hunter Henry total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484347326,1:00p ET,Patriots @ Jets - Hunter Henry total receiving yards
+NFL Sunday - Player Props,Hunter Henry,,,,r_484347327,1:00p ET,Patriots @ Jets - Hunter Henry to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484347327,1:00p ET,Patriots @ Jets - Hunter Henry to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Mike Gesicki,,,,r_484347328,1:00p ET,Patriots @ Jets - Mike Gesicki total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484347328,1:00p ET,Patriots @ Jets - Mike Gesicki total receiving yards
+NFL Sunday - Player Props,Mike Gesicki,,,,r_484347329,1:00p ET,Patriots @ Jets - Mike Gesicki to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484347329,1:00p ET,Patriots @ Jets - Mike Gesicki to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Zach Wilson,,,,r_484347330,1:00p ET,Patriots @ Jets - Zach Wilson gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484347330,1:00p ET,Patriots @ Jets - Zach Wilson gross passing yards
+NFL Sunday - Player Props,Z Wilson a TD Pass,,,-170,r_484347331,1:00p ET,Patriots @ Jets - Zach Wilson to throw a TD Pass
+NFL Sunday - Player Props,Z Wilson no TD Pass,,,+110,r_484347331,1:00p ET,Patriots @ Jets - Zach Wilson to throw a TD Pass
+NFL Sunday - Player Props,Zach Wilson,,,,r_484609992,1:00p ET,Patriots @ Jets - Zach Wilson to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484609992,1:00p ET,Patriots @ Jets - Zach Wilson to throw an interception
+NFL Sunday - Player Props,Zach Wilson,,,,r_484347332,1:00p ET,Patriots @ Jets - Zach Wilson total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484347332,1:00p ET,Patriots @ Jets - Zach Wilson total rushing yards
+NFL Sunday - Player Props,Zach Wilson,,,,r_484347333,1:00p ET,Patriots @ Jets - Zach Wilson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484347333,1:00p ET,Patriots @ Jets - Zach Wilson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Breece Hall,,,,r_484347334,1:00p ET,Patriots @ Jets - Breece Hall total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484347334,1:00p ET,Patriots @ Jets - Breece Hall total rushing yards
+NFL Sunday - Player Props,Breece Hall,,,,r_484347335,1:00p ET,Patriots @ Jets - Breece Hall total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484347335,1:00p ET,Patriots @ Jets - Breece Hall total receiving yards
+NFL Sunday - Player Props,Breece Hall,,,,r_484347336,1:00p ET,Patriots @ Jets - Breece Hall to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484347336,1:00p ET,Patriots @ Jets - Breece Hall to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Dalvin Cook,,,,r_484347346,1:00p ET,Patriots @ Jets - Dalvin Cook total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484347346,1:00p ET,Patriots @ Jets - Dalvin Cook total rushing yards
+NFL Sunday - Player Props,Dalvin Cook,,,,r_484347347,1:00p ET,Patriots @ Jets - Dalvin Cook to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484347347,1:00p ET,Patriots @ Jets - Dalvin Cook to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Garrett Wilson,,,,r_484347337,1:00p ET,Patriots @ Jets - Garrett Wilson total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484347337,1:00p ET,Patriots @ Jets - Garrett Wilson total receiving yards
+NFL Sunday - Player Props,Garrett Wilson,,,,r_484347339,1:00p ET,Patriots @ Jets - Garrett Wilson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484347339,1:00p ET,Patriots @ Jets - Garrett Wilson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Allen Lazard,,,,r_484347340,1:00p ET,Patriots @ Jets - Allen Lazard total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484347340,1:00p ET,Patriots @ Jets - Allen Lazard total receiving yards
+NFL Sunday - Player Props,Allen Lazard,,,,r_484347341,1:00p ET,Patriots @ Jets - Allen Lazard to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484347341,1:00p ET,Patriots @ Jets - Allen Lazard to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Randall Cobb,,,,r_484347342,1:00p ET,Patriots @ Jets - Randall Cobb total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484347342,1:00p ET,Patriots @ Jets - Randall Cobb total receiving yards
+NFL Sunday - Player Props,Tyler Conklin,,,,r_484347344,1:00p ET,Patriots @ Jets - Tyler Conklin total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484347344,1:00p ET,Patriots @ Jets - Tyler Conklin total receiving yards
+NFL Sunday - Player Props,Tyler Conklin,,,,r_484347345,1:00p ET,Patriots @ Jets - Tyler Conklin to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484347345,1:00p ET,Patriots @ Jets - Tyler Conklin to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Derek Carr,,,,r_484643289,1:00p ET,Saints @ Packers - Derek Carr gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484643289,1:00p ET,Saints @ Packers - Derek Carr gross passing yards
+NFL Sunday - Player Props,Derek Carr,,,,r_484643291,1:00p ET,Saints @ Packers - Derek Carr total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484643291,1:00p ET,Saints @ Packers - Derek Carr total touchdown passes
+NFL Sunday - Player Props,Derek Carr,,,,r_484643292,1:00p ET,Saints @ Packers - Derek Carr to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484643292,1:00p ET,Saints @ Packers - Derek Carr to throw an interception
+NFL Sunday - Player Props,Derek Carr,,,,r_484643293,1:00p ET,Saints @ Packers - Derek Carr total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484643293,1:00p ET,Saints @ Packers - Derek Carr total rushing yards
+NFL Sunday - Player Props,Derek Carr,,,,r_484643294,1:00p ET,Saints @ Packers - Derek Carr to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643294,1:00p ET,Saints @ Packers - Derek Carr to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Kendre Miller,,,,r_484643295,1:00p ET,Saints @ Packers - Kendre Miller total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484643295,1:00p ET,Saints @ Packers - Kendre Miller total rushing yards
+NFL Sunday - Player Props,Kendre Miller,,,,r_484643296,1:00p ET,Saints @ Packers - Kendre Miller total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484643296,1:00p ET,Saints @ Packers - Kendre Miller total receiving yards
+NFL Sunday - Player Props,Kendre Miller,,,,r_484643298,1:00p ET,Saints @ Packers - Kendre Miller to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643298,1:00p ET,Saints @ Packers - Kendre Miller to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Chris Olave,,,,r_484643299,1:00p ET,Saints @ Packers - Chris Olave total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484643299,1:00p ET,Saints @ Packers - Chris Olave total receiving yards
+NFL Sunday - Player Props,Chris Olave,,,,r_484643302,1:00p ET,Saints @ Packers - Chris Olave to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643302,1:00p ET,Saints @ Packers - Chris Olave to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Michael Thomas,,,,r_484643303,1:00p ET,Saints @ Packers - Michael Thomas total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484643303,1:00p ET,Saints @ Packers - Michael Thomas total receiving yards
+NFL Sunday - Player Props,Michael Thomas,,,,r_484643305,1:00p ET,Saints @ Packers - Michael Thomas to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643305,1:00p ET,Saints @ Packers - Michael Thomas to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Rashid Shaheed,,,,r_484643310,1:00p ET,Saints @ Packers - Rashid Shaheed total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484643310,1:00p ET,Saints @ Packers - Rashid Shaheed total receiving yards
+NFL Sunday - Player Props,Rashid Shaheed,,,,r_484643312,1:00p ET,Saints @ Packers - Rashid Shaheed to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643312,1:00p ET,Saints @ Packers - Rashid Shaheed to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Juwan Johnson,,,,r_484643306,1:00p ET,Saints @ Packers - Juwan Johnson total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484643306,1:00p ET,Saints @ Packers - Juwan Johnson total receiving yards
+NFL Sunday - Player Props,Juwan Johnson,,,,r_484643309,1:00p ET,Saints @ Packers - Juwan Johnson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643309,1:00p ET,Saints @ Packers - Juwan Johnson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Jordan Love,,,,r_484643314,1:00p ET,Saints @ Packers - Jordan Love gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484643314,1:00p ET,Saints @ Packers - Jordan Love gross passing yards
+NFL Sunday - Player Props,Jordan Love,,,,r_484643316,1:00p ET,Saints @ Packers - Jordan Love total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484643316,1:00p ET,Saints @ Packers - Jordan Love total touchdown passes
+NFL Sunday - Player Props,Jordan Love,,,,r_484643317,1:00p ET,Saints @ Packers - Jordan Love to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484643317,1:00p ET,Saints @ Packers - Jordan Love to throw an interception
+NFL Sunday - Player Props,Jordan Love,,,,r_484643318,1:00p ET,Saints @ Packers - Jordan Love total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484643318,1:00p ET,Saints @ Packers - Jordan Love total rushing yards
+NFL Sunday - Player Props,Jordan Love,,,,r_484643320,1:00p ET,Saints @ Packers - Jordan Love to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643320,1:00p ET,Saints @ Packers - Jordan Love to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Russell Wilson,,,,r_484350467,1:00p ET,Broncos @ Dolphins - Russell Wilson gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484350467,1:00p ET,Broncos @ Dolphins - Russell Wilson gross passing yards
+NFL Sunday - Player Props,Russell Wilson,,,,r_484350468,1:00p ET,Broncos @ Dolphins - Russell Wilson total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484350468,1:00p ET,Broncos @ Dolphins - Russell Wilson total touchdown passes
+NFL Sunday - Player Props,Russell Wilson,,,,r_484610140,1:00p ET,Broncos @ Dolphins - Russell Wilson to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484610140,1:00p ET,Broncos @ Dolphins - Russell Wilson to throw an interception
+NFL Sunday - Player Props,Russell Wilson,,,,r_484350469,1:00p ET,Broncos @ Dolphins - Russell Wilson total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484350469,1:00p ET,Broncos @ Dolphins - Russell Wilson total rushing yards
+NFL Sunday - Player Props,Russell Wilson,,,,r_484350470,1:00p ET,Broncos @ Dolphins - Russell Wilson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484350470,1:00p ET,Broncos @ Dolphins - Russell Wilson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Javonte Williams,,,,r_484350471,1:00p ET,Broncos @ Dolphins - Javonte Williams total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484350471,1:00p ET,Broncos @ Dolphins - Javonte Williams total rushing yards
+NFL Sunday - Player Props,Javonte Williams,,,,r_484350472,1:00p ET,Broncos @ Dolphins - Javonte Williams total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484350472,1:00p ET,Broncos @ Dolphins - Javonte Williams total receiving yards
+NFL Sunday - Player Props,Javonte Williams,,,,r_484350473,1:00p ET,Broncos @ Dolphins - Javonte Williams to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484350473,1:00p ET,Broncos @ Dolphins - Javonte Williams to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Jerry Jeudy,,,,r_484350474,1:00p ET,Broncos @ Dolphins - Jerry Jeudy total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484350474,1:00p ET,Broncos @ Dolphins - Jerry Jeudy total receiving yards
+NFL Sunday - Player Props,Jerry Jeudy,,,,r_484350475,1:00p ET,Broncos @ Dolphins - Jerry Jeudy to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484350475,1:00p ET,Broncos @ Dolphins - Jerry Jeudy to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Courtland Sutton,,,,r_484350476,1:00p ET,Broncos @ Dolphins - Courtland Sutton total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484350476,1:00p ET,Broncos @ Dolphins - Courtland Sutton total receiving yards
+NFL Sunday - Player Props,Courtland Sutton,,,,r_484350477,1:00p ET,Broncos @ Dolphins - Courtland Sutton to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484350477,1:00p ET,Broncos @ Dolphins - Courtland Sutton to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Adam Trautman,,,,r_484350478,1:00p ET,Broncos @ Dolphins - Adam Trautman total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484350478,1:00p ET,Broncos @ Dolphins - Adam Trautman total receiving yards
+NFL Sunday - Player Props,Adam Trautman,,,,r_484350479,1:00p ET,Broncos @ Dolphins - Adam Trautman to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484350479,1:00p ET,Broncos @ Dolphins - Adam Trautman to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Samaje Perine,,,,r_484350489,1:00p ET,Broncos @ Dolphins - Samaje Perine total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484350489,1:00p ET,Broncos @ Dolphins - Samaje Perine total receiving yards
+NFL Sunday - Player Props,Samaje Perine,,,,r_484350490,1:00p ET,Broncos @ Dolphins - Samaje Perine to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484350490,1:00p ET,Broncos @ Dolphins - Samaje Perine to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Tua Tagovailoa,,,,r_484350480,1:00p ET,Broncos @ Dolphins - Tua Tagovailoa gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484350480,1:00p ET,Broncos @ Dolphins - Tua Tagovailoa gross passing yards
+NFL Sunday - Player Props,Tua Tagovailoa,,,,r_484350481,1:00p ET,Broncos @ Dolphins - Tua Tagovailoa total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484350481,1:00p ET,Broncos @ Dolphins - Tua Tagovailoa total touchdown passes
+NFL Sunday - Player Props,Tua Tagovailoa,,,,r_484610143,1:00p ET,Broncos @ Dolphins - Tua Tagovailoa to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484610143,1:00p ET,Broncos @ Dolphins - Tua Tagovailoa to throw an interception
+NFL Sunday - Player Props,Raheem Mostert,,,,r_484350482,1:00p ET,Broncos @ Dolphins - Raheem Mostert total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484350482,1:00p ET,Broncos @ Dolphins - Raheem Mostert total rushing yards
+NFL Sunday - Player Props,Raheem Mostert,,,,r_484350483,1:00p ET,Broncos @ Dolphins - Raheem Mostert total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484350483,1:00p ET,Broncos @ Dolphins - Raheem Mostert total receiving yards
+NFL Sunday - Player Props,Raheem Mostert,,,,r_484350484,1:00p ET,Broncos @ Dolphins - Raheem Mostert to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484350484,1:00p ET,Broncos @ Dolphins - Raheem Mostert to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Tyreek Hill,,,,r_484350485,1:00p ET,Broncos @ Dolphins - Tyreek Hill total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484350485,1:00p ET,Broncos @ Dolphins - Tyreek Hill total receiving yards
+NFL Sunday - Player Props,Tyreek Hill,,,,r_484350486,1:00p ET,Broncos @ Dolphins - Tyreek Hill to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484350486,1:00p ET,Broncos @ Dolphins - Tyreek Hill to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Durham Smythe,,,,r_484350487,1:00p ET,Broncos @ Dolphins - Durham Smythe total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484350487,1:00p ET,Broncos @ Dolphins - Durham Smythe total receiving yards
+NFL Sunday - Player Props,Durham Smythe,,,,r_484350488,1:00p ET,Broncos @ Dolphins - Durham Smythe to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484350488,1:00p ET,Broncos @ Dolphins - Durham Smythe to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Josh Allen,,,,r_484643665,1:00p ET,Bills @ Commanders - Josh Allen gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484643665,1:00p ET,Bills @ Commanders - Josh Allen gross passing yards
+NFL Sunday - Player Props,Josh Allen,,,,r_484643669,1:00p ET,Bills @ Commanders - Josh Allen total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484643669,1:00p ET,Bills @ Commanders - Josh Allen total touchdown passes
+NFL Sunday - Player Props,Josh Allen,,,,r_484643670,1:00p ET,Bills @ Commanders - Josh Allen to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484643670,1:00p ET,Bills @ Commanders - Josh Allen to throw an interception
+NFL Sunday - Player Props,Josh Allen,,,,r_484643671,1:00p ET,Bills @ Commanders - Josh Allen total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484643671,1:00p ET,Bills @ Commanders - Josh Allen total rushing yards
+NFL Sunday - Player Props,Josh Allen,,,,r_484643672,1:00p ET,Bills @ Commanders - Josh Allen to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643672,1:00p ET,Bills @ Commanders - Josh Allen to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,James Cook,,,,r_484643675,1:00p ET,Bills @ Commanders - James Cook total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484643675,1:00p ET,Bills @ Commanders - James Cook total rushing yards
+NFL Sunday - Player Props,James Cook,,,,r_484643677,1:00p ET,Bills @ Commanders - James Cook total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484643677,1:00p ET,Bills @ Commanders - James Cook total receiving yards
+NFL Sunday - Player Props,James Cook,,,,r_484643680,1:00p ET,Bills @ Commanders - James Cook to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643680,1:00p ET,Bills @ Commanders - James Cook to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Stefon Diggs,,,,r_484643681,1:00p ET,Bills @ Commanders - Stefon Diggs total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484643681,1:00p ET,Bills @ Commanders - Stefon Diggs total receiving yards
+NFL Sunday - Player Props,Stefon Diggs,,,,r_484643685,1:00p ET,Bills @ Commanders - Stefon Diggs to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643685,1:00p ET,Bills @ Commanders - Stefon Diggs to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Gabe Davis,,,,r_484643686,1:00p ET,Bills @ Commanders - Gabe Davis total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484643686,1:00p ET,Bills @ Commanders - Gabe Davis total receiving yards
+NFL Sunday - Player Props,Gabe Davis,,,,r_484643688,1:00p ET,Bills @ Commanders - Gabe Davis to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643688,1:00p ET,Bills @ Commanders - Gabe Davis to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Dalton Kincaid,,,,r_484643697,1:00p ET,Bills @ Commanders - Dalton Kincaid total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484643697,1:00p ET,Bills @ Commanders - Dalton Kincaid total receiving yards
+NFL Sunday - Player Props,Dalton Kincaid,,,,r_484643700,1:00p ET,Bills @ Commanders - Dalton Kincaid to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643700,1:00p ET,Bills @ Commanders - Dalton Kincaid to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Dawson Knox,,,,r_484643692,1:00p ET,Bills @ Commanders - Dawson Knox total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484643692,1:00p ET,Bills @ Commanders - Dawson Knox total receiving yards
+NFL Sunday - Player Props,Dawson Knox,,,,r_484643696,1:00p ET,Bills @ Commanders - Dawson Knox to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643696,1:00p ET,Bills @ Commanders - Dawson Knox to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Sam Howell,,,,r_484643702,1:00p ET,Bills @ Commanders - Sam Howell gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484643702,1:00p ET,Bills @ Commanders - Sam Howell gross passing yards
+NFL Sunday - Player Props,Sam Howell,,,,r_484643704,1:00p ET,Bills @ Commanders - Sam Howell total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484643704,1:00p ET,Bills @ Commanders - Sam Howell total touchdown passes
+NFL Sunday - Player Props,Sam Howell,,,,r_484643705,1:00p ET,Bills @ Commanders - Sam Howell to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484643705,1:00p ET,Bills @ Commanders - Sam Howell to throw an interception
+NFL Sunday - Player Props,Sam Howell,,,,r_484643706,1:00p ET,Bills @ Commanders - Sam Howell total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484643706,1:00p ET,Bills @ Commanders - Sam Howell total rushing yards
+NFL Sunday - Player Props,Sam Howell,,,,r_484643707,1:00p ET,Bills @ Commanders - Sam Howell to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643707,1:00p ET,Bills @ Commanders - Sam Howell to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Brian Robinson Jr.,,,,r_484643708,1:00p ET,Bills @ Commanders - Brian Robinson Jr. total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484643708,1:00p ET,Bills @ Commanders - Brian Robinson Jr. total rushing yards
+NFL Sunday - Player Props,Brian Robinson Jr.,,,,r_484643709,1:00p ET,Bills @ Commanders - Brian Robinson Jr. total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484643709,1:00p ET,Bills @ Commanders - Brian Robinson Jr. total receiving yards
+NFL Sunday - Player Props,Brian Robinson Jr.,,,,r_484643710,1:00p ET,Bills @ Commanders - Brian Robinson Jr. to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643710,1:00p ET,Bills @ Commanders - Brian Robinson Jr. to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Antonio Gibson,,,,r_484643712,1:00p ET,Bills @ Commanders - Antonio Gibson total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484643712,1:00p ET,Bills @ Commanders - Antonio Gibson total rushing yards
+NFL Sunday - Player Props,Antonio Gibson,,,,r_484643715,1:00p ET,Bills @ Commanders - Antonio Gibson total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484643715,1:00p ET,Bills @ Commanders - Antonio Gibson total receiving yards
+NFL Sunday - Player Props,Antonio Gibson,,,,r_484643717,1:00p ET,Bills @ Commanders - Antonio Gibson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643717,1:00p ET,Bills @ Commanders - Antonio Gibson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Terry McLaurin,,,,r_484643718,1:00p ET,Bills @ Commanders - Terry McLaurin total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484643718,1:00p ET,Bills @ Commanders - Terry McLaurin total receiving yards
+NFL Sunday - Player Props,Terry McLaurin,,,,r_484643720,1:00p ET,Bills @ Commanders - Terry McLaurin to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643720,1:00p ET,Bills @ Commanders - Terry McLaurin to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Jahan Dotson,,,,r_484643721,1:00p ET,Bills @ Commanders - Jahan Dotson total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484643721,1:00p ET,Bills @ Commanders - Jahan Dotson total receiving yards
+NFL Sunday - Player Props,Jahan Dotson,,,,r_484643723,1:00p ET,Bills @ Commanders - Jahan Dotson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484643723,1:00p ET,Bills @ Commanders - Jahan Dotson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Desmond Ridder,,,,r_484351838,1:00p ET,Falcons @ Lions - Desmond Ridder gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484351838,1:00p ET,Falcons @ Lions - Desmond Ridder gross passing yards
+NFL Sunday - Player Props,Desmond Ridder,,,,r_484351839,1:00p ET,Falcons @ Lions - Desmond Ridder total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484351839,1:00p ET,Falcons @ Lions - Desmond Ridder total touchdown passes
+NFL Sunday - Player Props,Desmond Ridder,,,,r_484610338,1:00p ET,Falcons @ Lions - Desmond Ridder to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484610338,1:00p ET,Falcons @ Lions - Desmond Ridder to throw an interception
+NFL Sunday - Player Props,Desmond Ridder,,,,r_484351840,1:00p ET,Falcons @ Lions - Desmond Ridder total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484351840,1:00p ET,Falcons @ Lions - Desmond Ridder total rushing yards
+NFL Sunday - Player Props,Desmond Ridder,,,,r_484351841,1:00p ET,Falcons @ Lions - Desmond Ridder to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484351841,1:00p ET,Falcons @ Lions - Desmond Ridder to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Bijan Robinson,,,,r_484351842,1:00p ET,Falcons @ Lions - Bijan Robinson total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484351842,1:00p ET,Falcons @ Lions - Bijan Robinson total rushing yards
+NFL Sunday - Player Props,Bijan Robinson,,,,r_484351843,1:00p ET,Falcons @ Lions - Bijan Robinson total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484351843,1:00p ET,Falcons @ Lions - Bijan Robinson total receiving yards
+NFL Sunday - Player Props,Bijan Robinson,,,,r_484351844,1:00p ET,Falcons @ Lions - Bijan Robinson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484351844,1:00p ET,Falcons @ Lions - Bijan Robinson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Tyler Allgeier,,,,r_484351861,1:00p ET,Falcons @ Lions - Tyler Allgeier total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484351861,1:00p ET,Falcons @ Lions - Tyler Allgeier total rushing yards
+NFL Sunday - Player Props,Tyler Allgeier,,,,r_484351862,1:00p ET,Falcons @ Lions - Tyler Allgeier to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484351862,1:00p ET,Falcons @ Lions - Tyler Allgeier to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Drake London,,,,r_484351845,1:00p ET,Falcons @ Lions - Drake London total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484351845,1:00p ET,Falcons @ Lions - Drake London total receiving yards
+NFL Sunday - Player Props,Drake London,,,,r_484351846,1:00p ET,Falcons @ Lions - Drake London to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484351846,1:00p ET,Falcons @ Lions - Drake London to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Kyle Pitts,,,,r_484351849,1:00p ET,Falcons @ Lions - Kyle Pitts total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484351849,1:00p ET,Falcons @ Lions - Kyle Pitts total receiving yards
+NFL Sunday - Player Props,Kyle Pitts,,,,r_484351850,1:00p ET,Falcons @ Lions - Kyle Pitts to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484351850,1:00p ET,Falcons @ Lions - Kyle Pitts to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Mack Hollins,,,,r_484351847,1:00p ET,Falcons @ Lions - Mack Hollins total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484351847,1:00p ET,Falcons @ Lions - Mack Hollins total receiving yards
+NFL Sunday - Player Props,Mack Hollins,,,,r_484351848,1:00p ET,Falcons @ Lions - Mack Hollins to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484351848,1:00p ET,Falcons @ Lions - Mack Hollins to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Jared Goff,,,,r_484351851,1:00p ET,Falcons @ Lions - Jared Goff gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484351851,1:00p ET,Falcons @ Lions - Jared Goff gross passing yards
+NFL Sunday - Player Props,Jared Goff,,,,r_484351852,1:00p ET,Falcons @ Lions - Jared Goff total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484351852,1:00p ET,Falcons @ Lions - Jared Goff total touchdown passes
+NFL Sunday - Player Props,Jared Goff,,,,r_484610340,1:00p ET,Falcons @ Lions - Jared Goff to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484610340,1:00p ET,Falcons @ Lions - Jared Goff to throw an interception
+NFL Sunday - Player Props,Amon-Ra St. Brown,,,,r_484351855,1:00p ET,Falcons @ Lions - Amon-Ra St. Brown total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484351855,1:00p ET,Falcons @ Lions - Amon-Ra St. Brown total receiving yards
+NFL Sunday - Player Props,Amon-Ra St. Brown,,,,r_484351856,1:00p ET,Falcons @ Lions - Amon-Ra St. Brown to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484351856,1:00p ET,Falcons @ Lions - Amon-Ra St. Brown to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Josh Reynolds,,,,r_484351857,1:00p ET,Falcons @ Lions - Josh Reynolds total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484351857,1:00p ET,Falcons @ Lions - Josh Reynolds total receiving yards
+NFL Sunday - Player Props,Josh Reynolds,,,,r_484351858,1:00p ET,Falcons @ Lions - Josh Reynolds to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484351858,1:00p ET,Falcons @ Lions - Josh Reynolds to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Marvin Jones Jr.,,,,r_484351859,1:00p ET,Falcons @ Lions - Marvin Jones Jr. total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484351859,1:00p ET,Falcons @ Lions - Marvin Jones Jr. total receiving yards
+NFL Sunday - Player Props,Marvin Jones Jr.,,,,r_484351860,1:00p ET,Falcons @ Lions - Marvin Jones Jr. to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484351860,1:00p ET,Falcons @ Lions - Marvin Jones Jr. to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Gardner Minshew II,,,,r_484439529,1:00p ET,Colts @ Ravens - Gardner Minshew II gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484439529,1:00p ET,Colts @ Ravens - Gardner Minshew II gross passing yards
+NFL Sunday - Player Props,Gardner Minshew II,,,,r_484439531,1:00p ET,Colts @ Ravens - Gardner Minshew II total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484439531,1:00p ET,Colts @ Ravens - Gardner Minshew II total touchdown passes
+NFL Sunday - Player Props,Gardner Minshew II,,,,r_484610476,1:00p ET,Colts @ Ravens - Gardner Minshew II to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484610476,1:00p ET,Colts @ Ravens - Gardner Minshew II to throw an interception
+NFL Sunday - Player Props,Gardner Minshew II,,,,r_484439532,1:00p ET,Colts @ Ravens - Gardner Minshew II total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484439532,1:00p ET,Colts @ Ravens - Gardner Minshew II total rushing yards
+NFL Sunday - Player Props,Gardner Minshew II,,,,r_484439533,1:00p ET,Colts @ Ravens - Gardner Minshew II to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484439533,1:00p ET,Colts @ Ravens - Gardner Minshew II to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Zack Moss,,,,r_484439534,1:00p ET,Colts @ Ravens - Zack Moss total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484439534,1:00p ET,Colts @ Ravens - Zack Moss total rushing yards
+NFL Sunday - Player Props,Zack Moss,,,,r_484439535,1:00p ET,Colts @ Ravens - Zack Moss total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484439535,1:00p ET,Colts @ Ravens - Zack Moss total receiving yards
+NFL Sunday - Player Props,Zack Moss,,,,r_484439536,1:00p ET,Colts @ Ravens - Zack Moss to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484439536,1:00p ET,Colts @ Ravens - Zack Moss to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Michael Pittman Jr.,,,,r_484439538,1:00p ET,Colts @ Ravens - Michael Pittman Jr. total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484439538,1:00p ET,Colts @ Ravens - Michael Pittman Jr. total receiving yards
+NFL Sunday - Player Props,Michael Pittman Jr.,,,,r_484439539,1:00p ET,Colts @ Ravens - Michael Pittman Jr. to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484439539,1:00p ET,Colts @ Ravens - Michael Pittman Jr. to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Alec Pierce,,,,r_484439540,1:00p ET,Colts @ Ravens - Alec Pierce total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484439540,1:00p ET,Colts @ Ravens - Alec Pierce total receiving yards
+NFL Sunday - Player Props,Alec Pierce,,,,r_484439541,1:00p ET,Colts @ Ravens - Alec Pierce to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484439541,1:00p ET,Colts @ Ravens - Alec Pierce to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Josh Downs,,,,r_484439542,1:00p ET,Colts @ Ravens - Josh Downs total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484439542,1:00p ET,Colts @ Ravens - Josh Downs total receiving yards
+NFL Sunday - Player Props,Josh Downs,,,,r_484439543,1:00p ET,Colts @ Ravens - Josh Downs to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484439543,1:00p ET,Colts @ Ravens - Josh Downs to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Kylen Granson,,,,r_484439544,1:00p ET,Colts @ Ravens - Kylen Granson total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484439544,1:00p ET,Colts @ Ravens - Kylen Granson total receiving yards
+NFL Sunday - Player Props,Kylen Granson,,,,r_484439546,1:00p ET,Colts @ Ravens - Kylen Granson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484439546,1:00p ET,Colts @ Ravens - Kylen Granson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Lamar Jackson,,,,r_484439547,1:00p ET,Colts @ Ravens - Lamar Jackson gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484439547,1:00p ET,Colts @ Ravens - Lamar Jackson gross passing yards
+NFL Sunday - Player Props,Lamar Jackson,,,,r_484439548,1:00p ET,Colts @ Ravens - Lamar Jackson total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484439548,1:00p ET,Colts @ Ravens - Lamar Jackson total touchdown passes
+NFL Sunday - Player Props,Lamar Jackson,,,,r_484610479,1:00p ET,Colts @ Ravens - Lamar Jackson to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484610479,1:00p ET,Colts @ Ravens - Lamar Jackson to throw an interception
+NFL Sunday - Player Props,Lamar Jackson,,,,r_484439549,1:00p ET,Colts @ Ravens - Lamar Jackson total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484439549,1:00p ET,Colts @ Ravens - Lamar Jackson total rushing yards
+NFL Sunday - Player Props,Lamar Jackson,,,,r_484439550,1:00p ET,Colts @ Ravens - Lamar Jackson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484439550,1:00p ET,Colts @ Ravens - Lamar Jackson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Zay Flowers,,,,r_484439551,1:00p ET,Colts @ Ravens - Zay Flowers total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484439551,1:00p ET,Colts @ Ravens - Zay Flowers total receiving yards
+NFL Sunday - Player Props,Zay Flowers,,,,r_484439552,1:00p ET,Colts @ Ravens - Zay Flowers to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484439552,1:00p ET,Colts @ Ravens - Zay Flowers to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Mark Andrews,,,,r_484439555,1:00p ET,Colts @ Ravens - Mark Andrews total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484439555,1:00p ET,Colts @ Ravens - Mark Andrews total receiving yards
+NFL Sunday - Player Props,Mark Andrews,,,,r_484439556,1:00p ET,Colts @ Ravens - Mark Andrews to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484439556,1:00p ET,Colts @ Ravens - Mark Andrews to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Gus Edwards,,,,r_484439557,1:00p ET,Colts @ Ravens - Gus Edwards total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484439557,1:00p ET,Colts @ Ravens - Gus Edwards total rushing yards
+NFL Sunday - Player Props,Gus Edwards,,,,r_484439558,1:00p ET,Colts @ Ravens - Gus Edwards to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484439558,1:00p ET,Colts @ Ravens - Gus Edwards to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Rashod Bateman,,,,r_484439553,1:00p ET,Colts @ Ravens - Rashod Bateman total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484439553,1:00p ET,Colts @ Ravens - Rashod Bateman total receiving yards
+NFL Sunday - Player Props,Rashod Bateman,,,,r_484439554,1:00p ET,Colts @ Ravens - Rashod Bateman to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484439554,1:00p ET,Colts @ Ravens - Rashod Bateman to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Andy Dalton,,,,r_484353011,4:05p ET,Panthers @ Seahawks - Andy Dalton gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484353011,4:05p ET,Panthers @ Seahawks - Andy Dalton gross passing yards
+NFL Sunday - Player Props,Andy Dalton,,,,r_484353012,4:05p ET,Panthers @ Seahawks - Andy Dalton total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484353012,4:05p ET,Panthers @ Seahawks - Andy Dalton total touchdown passes
+NFL Sunday - Player Props,Andy Dalton,,,,r_484353013,4:05p ET,Panthers @ Seahawks - Andy Dalton to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484353013,4:05p ET,Panthers @ Seahawks - Andy Dalton to throw an interception
+NFL Sunday - Player Props,Miles Sanders,,,,r_484353014,4:05p ET,Panthers @ Seahawks - Miles Sanders total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484353014,4:05p ET,Panthers @ Seahawks - Miles Sanders total rushing yards
+NFL Sunday - Player Props,Miles Sanders,,,,r_484353015,4:05p ET,Panthers @ Seahawks - Miles Sanders total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484353015,4:05p ET,Panthers @ Seahawks - Miles Sanders total receiving yards
+NFL Sunday - Player Props,Miles Sanders,,,,r_484353017,4:05p ET,Panthers @ Seahawks - Miles Sanders to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484353017,4:05p ET,Panthers @ Seahawks - Miles Sanders to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Jonathan Mingo,,,,r_484353021,4:05p ET,Panthers @ Seahawks - Jonathan Mingo total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484353021,4:05p ET,Panthers @ Seahawks - Jonathan Mingo total receiving yards
+NFL Sunday - Player Props,Jonathan Mingo,,,,r_484353023,4:05p ET,Panthers @ Seahawks - Jonathan Mingo to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484353023,4:05p ET,Panthers @ Seahawks - Jonathan Mingo to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Adam Thielen,,,,r_484353018,4:05p ET,Panthers @ Seahawks - Adam Thielen total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484353018,4:05p ET,Panthers @ Seahawks - Adam Thielen total receiving yards
+NFL Sunday - Player Props,Adam Thielen,,,,r_484353020,4:05p ET,Panthers @ Seahawks - Adam Thielen to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484353020,4:05p ET,Panthers @ Seahawks - Adam Thielen to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Hayden Hurst,,,,r_484353024,4:05p ET,Panthers @ Seahawks - Hayden Hurst total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484353024,4:05p ET,Panthers @ Seahawks - Hayden Hurst total receiving yards
+NFL Sunday - Player Props,Hayden Hurst,,,,r_484353026,4:05p ET,Panthers @ Seahawks - Hayden Hurst to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484353026,4:05p ET,Panthers @ Seahawks - Hayden Hurst to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Geno Smith,,,,r_484353027,4:05p ET,Panthers @ Seahawks - Geno Smith gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484353027,4:05p ET,Panthers @ Seahawks - Geno Smith gross passing yards
+NFL Sunday - Player Props,Geno Smith,,,,r_484353028,4:05p ET,Panthers @ Seahawks - Geno Smith total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484353028,4:05p ET,Panthers @ Seahawks - Geno Smith total touchdown passes
+NFL Sunday - Player Props,Geno Smith,,,,r_484353030,4:05p ET,Panthers @ Seahawks - Geno Smith total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484353030,4:05p ET,Panthers @ Seahawks - Geno Smith total rushing yards
+NFL Sunday - Player Props,Geno Smith,,,,r_484353031,4:05p ET,Panthers @ Seahawks - Geno Smith to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484353031,4:05p ET,Panthers @ Seahawks - Geno Smith to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Kenneth Walker III,,,,r_484353032,4:05p ET,Panthers @ Seahawks - Kenneth Walker III total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484353032,4:05p ET,Panthers @ Seahawks - Kenneth Walker III total rushing yards
+NFL Sunday - Player Props,Kenneth Walker III,,,,r_484353033,4:05p ET,Panthers @ Seahawks - Kenneth Walker III total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484353033,4:05p ET,Panthers @ Seahawks - Kenneth Walker III total receiving yards
+NFL Sunday - Player Props,Kenneth Walker III,,,,r_484353035,4:05p ET,Panthers @ Seahawks - Kenneth Walker III to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484353035,4:05p ET,Panthers @ Seahawks - Kenneth Walker III to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,DK Metcalf,,,,r_484353036,4:05p ET,Panthers @ Seahawks - DK Metcalf total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484353036,4:05p ET,Panthers @ Seahawks - DK Metcalf total receiving yards
+NFL Sunday - Player Props,DK Metcalf,,,,r_484353038,4:05p ET,Panthers @ Seahawks - DK Metcalf to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484353038,4:05p ET,Panthers @ Seahawks - DK Metcalf to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Tyler Lockett,,,,r_484353039,4:05p ET,Panthers @ Seahawks - Tyler Lockett total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484353039,4:05p ET,Panthers @ Seahawks - Tyler Lockett total receiving yards
+NFL Sunday - Player Props,Tyler Lockett,,,,r_484353041,4:05p ET,Panthers @ Seahawks - Tyler Lockett to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484353041,4:05p ET,Panthers @ Seahawks - Tyler Lockett to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Jaxon Smith-Njigba,,,,r_484353042,4:05p ET,Panthers @ Seahawks - Jaxon Smith-Njigba total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484353042,4:05p ET,Panthers @ Seahawks - Jaxon Smith-Njigba total receiving yards
+NFL Sunday - Player Props,Jaxon Smith-Njigba,,,,r_484353044,4:05p ET,Panthers @ Seahawks - Jaxon Smith-Njigba to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484353044,4:05p ET,Panthers @ Seahawks - Jaxon Smith-Njigba to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Dak Prescott,,,,r_484358222,4:25p ET,Cowboys @ Cardinals - Dak Prescott gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484358222,4:25p ET,Cowboys @ Cardinals - Dak Prescott gross passing yards
+NFL Sunday - Player Props,Dak Prescott,,,,r_484358223,4:25p ET,Cowboys @ Cardinals - Dak Prescott total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484358223,4:25p ET,Cowboys @ Cardinals - Dak Prescott total touchdown passes
+NFL Sunday - Player Props,Dak Prescott,,,,r_484358225,4:25p ET,Cowboys @ Cardinals - Dak Prescott to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484358225,4:25p ET,Cowboys @ Cardinals - Dak Prescott to throw an interception
+NFL Sunday - Player Props,Dak Prescott,,,,r_484358226,4:25p ET,Cowboys @ Cardinals - Dak Prescott total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484358226,4:25p ET,Cowboys @ Cardinals - Dak Prescott total rushing yards
+NFL Sunday - Player Props,Dak Prescott,,,,r_484358227,4:25p ET,Cowboys @ Cardinals - Dak Prescott to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484358227,4:25p ET,Cowboys @ Cardinals - Dak Prescott to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Tony Pollard,,,,r_484358228,4:25p ET,Cowboys @ Cardinals - Tony Pollard total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484358228,4:25p ET,Cowboys @ Cardinals - Tony Pollard total rushing yards
+NFL Sunday - Player Props,Tony Pollard,,,,r_484358229,4:25p ET,Cowboys @ Cardinals - Tony Pollard total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484358229,4:25p ET,Cowboys @ Cardinals - Tony Pollard total receiving yards
+NFL Sunday - Player Props,Tony Pollard,,,,r_484358231,4:25p ET,Cowboys @ Cardinals - Tony Pollard to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484358231,4:25p ET,Cowboys @ Cardinals - Tony Pollard to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Rico Dowdle,,,,r_484358266,4:25p ET,Cowboys @ Cardinals - Rico Dowdle total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484358266,4:25p ET,Cowboys @ Cardinals - Rico Dowdle total rushing yards
+NFL Sunday - Player Props,Rico Dowdle,,,,r_484358267,4:25p ET,Cowboys @ Cardinals - Rico Dowdle to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484358267,4:25p ET,Cowboys @ Cardinals - Rico Dowdle to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,CeeDee Lamb,,,,r_484358232,4:25p ET,Cowboys @ Cardinals - CeeDee Lamb total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484358232,4:25p ET,Cowboys @ Cardinals - CeeDee Lamb total receiving yards
+NFL Sunday - Player Props,CeeDee Lamb,,,,r_484358234,4:25p ET,Cowboys @ Cardinals - CeeDee Lamb to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484358234,4:25p ET,Cowboys @ Cardinals - CeeDee Lamb to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Brandin Cooks,,,,r_484358235,4:25p ET,Cowboys @ Cardinals - Brandin Cooks total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484358235,4:25p ET,Cowboys @ Cardinals - Brandin Cooks total receiving yards
+NFL Sunday - Player Props,Brandin Cooks,,,,r_484358237,4:25p ET,Cowboys @ Cardinals - Brandin Cooks to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484358237,4:25p ET,Cowboys @ Cardinals - Brandin Cooks to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Michael Gallup,,,,r_484358238,4:25p ET,Cowboys @ Cardinals - Michael Gallup total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484358238,4:25p ET,Cowboys @ Cardinals - Michael Gallup total receiving yards
+NFL Sunday - Player Props,Michael Gallup,,,,r_484358240,4:25p ET,Cowboys @ Cardinals - Michael Gallup to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484358240,4:25p ET,Cowboys @ Cardinals - Michael Gallup to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Jake Ferguson,,,,r_484358241,4:25p ET,Cowboys @ Cardinals - Jake Ferguson total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484358241,4:25p ET,Cowboys @ Cardinals - Jake Ferguson total receiving yards
+NFL Sunday - Player Props,Jake Ferguson,,,,r_484358243,4:25p ET,Cowboys @ Cardinals - Jake Ferguson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484358243,4:25p ET,Cowboys @ Cardinals - Jake Ferguson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Josh Dobbs,,,,r_484358244,4:25p ET,Cowboys @ Cardinals - Josh Dobbs gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484358244,4:25p ET,Cowboys @ Cardinals - Josh Dobbs gross passing yards
+NFL Sunday - Player Props,J Dobbs a TD Pass,,,-203,r_484358245,4:25p ET,Cowboys @ Cardinals - Josh Dobbs to throw a TD Pass
+NFL Sunday - Player Props,J Dobbs no TD Pass,,,+125,r_484358245,4:25p ET,Cowboys @ Cardinals - Josh Dobbs to throw a TD Pass
+NFL Sunday - Player Props,Josh Dobbs,,,,r_484358247,4:25p ET,Cowboys @ Cardinals - Josh Dobbs to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484358247,4:25p ET,Cowboys @ Cardinals - Josh Dobbs to throw an interception
+NFL Sunday - Player Props,Josh Dobbs,,,,r_484358248,4:25p ET,Cowboys @ Cardinals - Josh Dobbs total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484358248,4:25p ET,Cowboys @ Cardinals - Josh Dobbs total rushing yards
+NFL Sunday - Player Props,Josh Dobbs,,,,r_484358249,4:25p ET,Cowboys @ Cardinals - Josh Dobbs to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484358249,4:25p ET,Cowboys @ Cardinals - Josh Dobbs to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,James Conner,,,,r_484358250,4:25p ET,Cowboys @ Cardinals - James Conner total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484358250,4:25p ET,Cowboys @ Cardinals - James Conner total rushing yards
+NFL Sunday - Player Props,James Conner,,,,r_484358251,4:25p ET,Cowboys @ Cardinals - James Conner total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484358251,4:25p ET,Cowboys @ Cardinals - James Conner total receiving yards
+NFL Sunday - Player Props,James Conner,,,,r_484358253,4:25p ET,Cowboys @ Cardinals - James Conner to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484358253,4:25p ET,Cowboys @ Cardinals - James Conner to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Marquise Brown,,,,r_484358254,4:25p ET,Cowboys @ Cardinals - Marquise Brown total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484358254,4:25p ET,Cowboys @ Cardinals - Marquise Brown total receiving yards
+NFL Sunday - Player Props,Marquise Brown,,,,r_484358256,4:25p ET,Cowboys @ Cardinals - Marquise Brown to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484358256,4:25p ET,Cowboys @ Cardinals - Marquise Brown to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Zach Ertz,,,,r_484358263,4:25p ET,Cowboys @ Cardinals - Zach Ertz total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484358263,4:25p ET,Cowboys @ Cardinals - Zach Ertz total receiving yards
+NFL Sunday - Player Props,Zach Ertz,,,,r_484358265,4:25p ET,Cowboys @ Cardinals - Zach Ertz to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484358265,4:25p ET,Cowboys @ Cardinals - Zach Ertz to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Rondale Moore,,,,r_484358260,4:25p ET,Cowboys @ Cardinals - Rondale Moore total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484358260,4:25p ET,Cowboys @ Cardinals - Rondale Moore total receiving yards
+NFL Sunday - Player Props,Rondale Moore,,,,r_484358262,4:25p ET,Cowboys @ Cardinals - Rondale Moore to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484358262,4:25p ET,Cowboys @ Cardinals - Rondale Moore to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Michael Wilson,,,,r_484358257,4:25p ET,Cowboys @ Cardinals - Michael Wilson total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484358257,4:25p ET,Cowboys @ Cardinals - Michael Wilson total receiving yards
+NFL Sunday - Player Props,Michael Wilson,,,,r_484358259,4:25p ET,Cowboys @ Cardinals - Michael Wilson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484358259,4:25p ET,Cowboys @ Cardinals - Michael Wilson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Justin Fields,,,,r_484363144,4:25p ET,Bears @ Chiefs - Justin Fields gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484363144,4:25p ET,Bears @ Chiefs - Justin Fields gross passing yards
+NFL Sunday - Player Props,J Fields a TD Pass,,,-203,r_484363146,4:25p ET,Bears @ Chiefs - Justin Fields to throw a TD Pass
+NFL Sunday - Player Props,J Fields no TD Pass,,,+125,r_484363146,4:25p ET,Bears @ Chiefs - Justin Fields to throw a TD Pass
+NFL Sunday - Player Props,Justin Fields,,,,r_484363148,4:25p ET,Bears @ Chiefs - Justin Fields to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484363148,4:25p ET,Bears @ Chiefs - Justin Fields to throw an interception
+NFL Sunday - Player Props,Justin Fields,,,,r_484363149,4:25p ET,Bears @ Chiefs - Justin Fields total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484363149,4:25p ET,Bears @ Chiefs - Justin Fields total rushing yards
+NFL Sunday - Player Props,Justin Fields,,,,r_484363150,4:25p ET,Bears @ Chiefs - Justin Fields to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484363150,4:25p ET,Bears @ Chiefs - Justin Fields to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Khalil Herbert,,,,r_484363151,4:25p ET,Bears @ Chiefs - Khalil Herbert total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484363151,4:25p ET,Bears @ Chiefs - Khalil Herbert total rushing yards
+NFL Sunday - Player Props,Khalil Herbert,,,,r_484363152,4:25p ET,Bears @ Chiefs - Khalil Herbert total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484363152,4:25p ET,Bears @ Chiefs - Khalil Herbert total receiving yards
+NFL Sunday - Player Props,Khalil Herbert,,,,r_484363154,4:25p ET,Bears @ Chiefs - Khalil Herbert to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484363154,4:25p ET,Bears @ Chiefs - Khalil Herbert to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Roschon Johnson,,,,r_484363190,4:25p ET,Bears @ Chiefs - Roschon Johnson total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484363190,4:25p ET,Bears @ Chiefs - Roschon Johnson total rushing yards
+NFL Sunday - Player Props,Roschon Johnson,,,,r_484363191,4:25p ET,Bears @ Chiefs - Roschon Johnson total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484363191,4:25p ET,Bears @ Chiefs - Roschon Johnson total receiving yards
+NFL Sunday - Player Props,Roschon Johnson,,,,r_484363192,4:25p ET,Bears @ Chiefs - Roschon Johnson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484363192,4:25p ET,Bears @ Chiefs - Roschon Johnson to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,DJ Moore,,,,r_484363155,4:25p ET,Bears @ Chiefs - DJ Moore total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484363155,4:25p ET,Bears @ Chiefs - DJ Moore total receiving yards
+NFL Sunday - Player Props,DJ Moore,,,,r_484363157,4:25p ET,Bears @ Chiefs - DJ Moore to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484363157,4:25p ET,Bears @ Chiefs - DJ Moore to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Darnell Mooney,,,,r_484363158,4:25p ET,Bears @ Chiefs - Darnell Mooney total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484363158,4:25p ET,Bears @ Chiefs - Darnell Mooney total receiving yards
+NFL Sunday - Player Props,Darnell Mooney,,,,r_484363160,4:25p ET,Bears @ Chiefs - Darnell Mooney to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484363160,4:25p ET,Bears @ Chiefs - Darnell Mooney to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Cole Kmet,,,,r_484363165,4:25p ET,Bears @ Chiefs - Cole Kmet total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484363165,4:25p ET,Bears @ Chiefs - Cole Kmet total receiving yards
+NFL Sunday - Player Props,Cole Kmet,,,,r_484363168,4:25p ET,Bears @ Chiefs - Cole Kmet to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484363168,4:25p ET,Bears @ Chiefs - Cole Kmet to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Chase Claypool,,,,r_484363161,4:25p ET,Bears @ Chiefs - Chase Claypool total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484363161,4:25p ET,Bears @ Chiefs - Chase Claypool total receiving yards
+NFL Sunday - Player Props,Chase Claypool,,,,r_484363164,4:25p ET,Bears @ Chiefs - Chase Claypool to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484363164,4:25p ET,Bears @ Chiefs - Chase Claypool to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Patrick Mahomes,,,,r_484363169,4:25p ET,Bears @ Chiefs - Patrick Mahomes gross passing yards
+NFL Sunday - Player Props,Passing Yards,,,,r_484363169,4:25p ET,Bears @ Chiefs - Patrick Mahomes gross passing yards
+NFL Sunday - Player Props,Patrick Mahomes,,,,r_484363170,4:25p ET,Bears @ Chiefs - Patrick Mahomes total touchdown passes
+NFL Sunday - Player Props,TD Passes,,,,r_484363170,4:25p ET,Bears @ Chiefs - Patrick Mahomes total touchdown passes
+NFL Sunday - Player Props,Patrick Mahomes,,,,r_484363171,4:25p ET,Bears @ Chiefs - Patrick Mahomes to throw an interception
+NFL Sunday - Player Props,Interception,,,,r_484363171,4:25p ET,Bears @ Chiefs - Patrick Mahomes to throw an interception
+NFL Sunday - Player Props,Patrick Mahomes,,,,r_484363173,4:25p ET,Bears @ Chiefs - Patrick Mahomes total rushing yards
+NFL Sunday - Player Props,Rushing Yards,,,,r_484363173,4:25p ET,Bears @ Chiefs - Patrick Mahomes total rushing yards
+NFL Sunday - Player Props,Patrick Mahomes,,,,r_484363174,4:25p ET,Bears @ Chiefs - Patrick Mahomes to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484363174,4:25p ET,Bears @ Chiefs - Patrick Mahomes to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Travis Kelce,,,,r_484363183,4:25p ET,Bears @ Chiefs - Travis Kelce total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484363183,4:25p ET,Bears @ Chiefs - Travis Kelce total receiving yards
+NFL Sunday - Player Props,Travis Kelce,,,,r_484363186,4:25p ET,Bears @ Chiefs - Travis Kelce to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484363186,4:25p ET,Bears @ Chiefs - Travis Kelce to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Marquez Valdes-Scantling,,,,r_484363175,4:25p ET,Bears @ Chiefs - Marquez Valdes-Scantling total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484363175,4:25p ET,Bears @ Chiefs - Marquez Valdes-Scantling total receiving yards
+NFL Sunday - Player Props,Marquez Valdes-Scantling,,,,r_484363177,4:25p ET,Bears @ Chiefs - Marquez Valdes-Scantling to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484363177,4:25p ET,Bears @ Chiefs - Marquez Valdes-Scantling to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Noah Gray,,,,r_484363187,4:25p ET,Bears @ Chiefs - Noah Gray total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484363187,4:25p ET,Bears @ Chiefs - Noah Gray total receiving yards
+NFL Sunday - Player Props,Noah Gray,,,,r_484363189,4:25p ET,Bears @ Chiefs - Noah Gray to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484363189,4:25p ET,Bears @ Chiefs - Noah Gray to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Jerick McKinnon,,,,r_484363178,4:25p ET,Bears @ Chiefs - Jerick McKinnon total receiving yards
+NFL Sunday - Player Props,Receiving Yards,,,,r_484363178,4:25p ET,Bears @ Chiefs - Jerick McKinnon total receiving yards
+NFL Sunday - Player Props,Jerick McKinnon,,,,r_484363180,4:25p ET,Bears @ Chiefs - Jerick McKinnon to score a TD by possessing the ball in the end zone
+NFL Sunday - Player Props,Touchdown,,,,r_484363180,4:25p ET,Bears @ Chiefs - Jerick McKinnon to score a TD by possessing the ball in the end zone
+NFL - Make the Playoffs,Chiefs make Playoffs,,,-550,r_477435403,1:00p ET,Kansas City Chiefs to make the playoffs
+NFL - Make the Playoffs,Chiefs miss Playoffs,,,+338,r_477435403,1:00p ET,Kansas City Chiefs to make the playoffs
+NFL - Make the Playoffs,Dolphins make Playoffs,,,-350,r_477434192,1:00p ET,Miami Dolphins to make the playoffs
+NFL - Make the Playoffs,Dolphins miss Playoffs,,,+235,r_477434192,1:00p ET,Miami Dolphins to make the playoffs
+NFL - Make the Playoffs,Ravens make Playoffs,,,-340,r_469804743,1:00p ET,Baltimore Ravens to make the playoffs
+NFL - Make the Playoffs,Ravens miss Playoffs,,,+230,r_469804743,1:00p ET,Baltimore Ravens to make the playoffs
+NFL - Make the Playoffs,Bills make Playoffs,,,-340,r_477435285,1:00p ET,Buffalo Bills to make the playoffs
+NFL - Make the Playoffs,Bills miss Playoffs,,,+230,r_477435285,1:00p ET,Buffalo Bills to make the playoffs
+NFL - Make the Playoffs,Jaguars make Playoffs,,,-260,r_477434641,1:00p ET,Jacksonville Jaguars to make the playoffs
+NFL - Make the Playoffs,Jaguars miss Playoffs,,,+183,r_477434641,1:00p ET,Jacksonville Jaguars to make the playoffs
+NFL - Make the Playoffs,Browns make Playoffs,,,-130,r_477434129,1:00p ET,Cleveland Browns to make the playoffs
+NFL - Make the Playoffs,Browns miss Playoffs,,,+100,r_477434129,1:00p ET,Cleveland Browns to make the playoffs
+NFL - Make the Playoffs,Chargers make Playoffs,,,+135,r_477434177,1:00p ET,Los Angeles Chargers to make the playoffs
+NFL - Make the Playoffs,Chargers miss Playoffs,,,-185,r_477434177,1:00p ET,Los Angeles Chargers to make the playoffs
+NFL - Make the Playoffs,Steelers make Playoffs,,,+145,r_477434354,1:00p ET,Pittsburgh Steelers to make the playoffs
+NFL - Make the Playoffs,Steelers miss Playoffs,,,-200,r_477434354,1:00p ET,Pittsburgh Steelers to make the playoffs
+NFL - Make the Playoffs,Titans make Playoffs,,,+152,r_477435603,1:00p ET,Tennessee Titans to make the playoffs
+NFL - Make the Playoffs,Titans miss Playoffs,,,-210,r_477435603,1:00p ET,Tennessee Titans to make the playoffs
+NFL - Make the Playoffs,Jets make Playoffs,,,+262,r_477434304,1:00p ET,New York Jets to make the playoffs
+NFL - Make the Playoffs,Jets miss Playoffs,,,-400,r_477434304,1:00p ET,New York Jets to make the playoffs
+NFL - Make the Playoffs,Colts make Playoffs,,,+262,r_477435754,1:00p ET,Indianapolis Colts to make the playoffs
+NFL - Make the Playoffs,Colts miss Playoffs,,,-400,r_477435754,1:00p ET,Indianapolis Colts to make the playoffs
+NFL - Make the Playoffs,Broncos make Playoffs,,,+338,r_477434535,1:00p ET,Denver Broncos to make the playoffs
+NFL - Make the Playoffs,Broncos miss Playoffs,,,-550,r_477434535,1:00p ET,Denver Broncos to make the playoffs
+NFL - Make the Playoffs,Bengals make Playoffs,,,-110,r_477435324,1:00p ET,Cincinnati Bengals to make the playoffs
+NFL - Make the Playoffs,Bengals miss Playoffs,,,-120,r_477435324,1:00p ET,Cincinnati Bengals to make the playoffs
+WNBA,Connecticut Sun,8.5,-110,+300,r_484261849,1:00p ET,Playoffs - Connecticut Sun @ New York Liberty - Game 1 (ESPN)
+WNBA,New York Liberty,-8.5,-110,-390,r_484261849,1:00p ET,Playoffs - Connecticut Sun @ New York Liberty - Game 1 (ESPN)
+WNBA,Sun Series,,,+320,r_484374207,1:00p ET,Playoffs - Sun vs Liberty - Team to win the Series - Best of five
+WNBA,Liberty Series,,,-400,r_484374207,1:00p ET,Playoffs - Sun vs Liberty - Team to win the Series - Best of five
+WNBA,Wings Series,,,+650,r_484374436,5:00p ET,Playoffs - Wings vs Aces - Team to win the Series - Best of five
+WNBA,Aces Series,,,-1200,r_484374436,5:00p ET,Playoffs - Wings vs Aces - Team to win the Series - Best of five
