@@ -22,8 +22,24 @@ class BetevoRecord {
   }
 
   static async listAll() {
-    const startTime = new Date(Date.UTC(2023, 8, 24, 8, 0, 0, 0));
-    const endTime = new Date(Date.UTC(2023, 8, 24, 9, 0, 0, 0));
+    const currentTime = Date.now();
+    const currentDate = new Date(currentTime);
+    const tomorrowDate = new Date(currentTime);
+
+    const year = currentDate.getFullYear();
+    const month = currentDate.getMonth(); // Months are zero-based, so we add 1
+    const day = currentDate.getDate();
+
+    tomorrowDate.setDate(currentDate.getDate() + 1);
+
+    const tomorrowYear = tomorrowDate.getFullYear();
+    const tomorrowMonth = tomorrowDate.getMonth(); // Months are zero-based, so we add 1
+    const tomorrowDay = tomorrowDate.getDate();
+
+    const startTime = new Date(Date.UTC(year, month, day, 0, 0, 0, 0));
+    const endTime = new Date(Date.UTC(tomorrowYear, tomorrowMonth, tomorrowDay, 0, 0, 0, 0));
+
+    console.log(startTime, endTime);
 
     const [results] = await pool.execute(`SELECT id, category, team, spread_odd, spread_standard, money_line, game_id, game_date, game_title, game_datetime FROM tbl_betevo88 WHERE game_datetime>='${startTime.toISOString()}' AND game_datetime<='${endTime.toISOString()}'`);
 
@@ -55,7 +71,7 @@ class BetevoRecord {
       if((results[i].spread_odd !="" || results[i].spread_standard !="") && results[i].money_line!="")
         listData.push(data);
     }
-    return listData;//results.map((obj) => new BetevoRecord(obj));
+    return listData;
   }
 }
 

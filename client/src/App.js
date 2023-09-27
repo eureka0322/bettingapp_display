@@ -17,8 +17,6 @@ export default function App() {
       await axios
         .get('http://localhost:8080/')
         .then((response) => {
- 
-          console.log(response.data);
           setBetevoList(response.data);
         });
     } catch (err) {
@@ -36,9 +34,10 @@ export default function App() {
         betevoList.map((betevo)=> (
           <Card key={betevo.game_id+betevo.category} sx={{border: '1px solid #3b82f6', marginTop: 2}}>
             <CardHeader
-              title={betevo.game_title}
+              title={betevo.game_title+' | '+betevo.category}
               sx={{
-                background: '#3b82f6'
+                background: '#3b82f6',
+                color: 'white'
               }}
             >
             
