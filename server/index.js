@@ -11,7 +11,7 @@ app.use(express.json());
 
 app.use('/', BetevoRouter);
 
-const PORT = process.env.PORT || 80;
+const PORT = process.env.PORT || 5000;
 
 setInterval(() => {
   const python = spawn("python", ["scrape_test.py"]);
