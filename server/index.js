@@ -11,7 +11,7 @@ app.use(express.json());
 
 app.use('/', BetevoRouter);
 
-const PORT = process.env.PORT || 8080;
+
 
 // setInterval(() => {
 //   const python = spawn("python", ["scrape_test.py"]);
@@ -25,6 +25,7 @@ const PORT = process.env.PORT || 8080;
 //    });
      
 // }, 3600*1000*24)
+const PORT = process.env.PORT || 80;
 app.listen(PORT, () => {
   console.log(`Listening on port ${PORT}`);
 });
