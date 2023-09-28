@@ -15,7 +15,7 @@ export default function App() {
   const getAllList = async () => {
     try {
       await axios
-        .get('http://ec2-18-208-110-107.compute-1.amazonaws.com:5000/')
+        .get('/api')
         .then((response) => {
           setBetevoList(response.data);
         });
