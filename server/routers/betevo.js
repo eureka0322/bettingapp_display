@@ -4,7 +4,7 @@ const {pool} = require('../utils/db');
 
 const BetevoRouter = Router();
 
-BetevoRouter.get('/', async (req, res) => {
+BetevoRouter.get('/test', async (req, res) => {
   const betevoList = await BetevoRecord.listAll();
 
   res.send(betevoList);

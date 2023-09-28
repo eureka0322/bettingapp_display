@@ -9,8 +9,12 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-app.use('/', BetevoRouter);
+app.get("/", (req, res) => {
+  console.log("REQUEST");
+  res.json({ message: "Welcome to bezkoder application." });
+});
 
+app.use('/', BetevoRouter);
 
 
 // setInterval(() => {
