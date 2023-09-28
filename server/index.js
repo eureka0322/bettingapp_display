@@ -25,7 +25,7 @@ app.use('/', BetevoRouter);
 //    });
      
 // }, 3600*1000*24)
-const PORT = process.env.PORT || 80;
+const PORT = process.env.PORT || 443;
 app.listen(PORT, () => {
   console.log(`Listening on port ${PORT}`);
 });
