@@ -41,6 +41,7 @@ class BetevoRecord {
 
     console.log(startTime, endTime);
 
+    return { start: startTime, end: endTime };
     const [results] = await pool.execute(`SELECT id, category, team, spread_odd, spread_standard, money_line, game_id, game_date, game_title, game_datetime FROM tbl_betevo88 WHERE game_datetime>='${startTime.toISOString()}' AND game_datetime<='${endTime.toISOString()}';`);
     console.log(`SELECT id, category, team, spread_odd, spread_standard, money_line, game_id, game_date, game_title, game_datetime FROM tbl_betevo88 WHERE game_datetime>='${startTime.toISOString()}' AND game_datetime<='${endTime.toISOString()}';`);
 
